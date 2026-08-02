@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T05:06:46",
+  "last_updated": "2026-08-02T05:07:58",
   "html": {
     "https://web.archive.org/web/20260215090515if_/https://twitter.com/Coconut_QuQ/status/2022960386107122009": {
       "status": "done",
@@ -4002,14 +4002,14 @@
   },
   "avatars": {
     "https://pbs.twimg.com/profile_images/2020832661141667841/fgZY2vkK_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260211011837_twitter_com_Coconut_QuQ_status_2021393403691569585.json",
         "20260212235131_twitter_com_Coconut_QuQ_status_2022096256840221046.json",
         "20260215090515_twitter_com_Coconut_QuQ_status_2022960386107122009.json",
         "20260216100815_twitter_com_Coconut_QuQ_status_2023338628953587989.json"
       ],
-      "last_updated": "2026-08-02T03:55:54",
+      "last_updated": "2026-08-02T05:07:44",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260216100815if_/https://pbs.twimg.com/profile_images/2020832661141667841/fgZY2vkK_normal.jpg",
       "miss_count": 1
     },
@@ -4720,9 +4720,9 @@
       "referenced_by": [
         "20260323114541_twitter_com_Coconut_QuQ_status_2036046723722928636.json"
       ],
-      "last_updated": "2026-08-02T03:55:56",
+      "last_updated": "2026-08-02T05:07:46",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260323114541if_/https://pbs.twimg.com/profile_images/2032686730533638144/D7ZSvGlA_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2037073663246442496/Gq2uPhSz_normal.jpg": {
       "status": "done",
@@ -4760,9 +4760,9 @@
         "20260531170627_twitter_com_Coconut_QuQ_status_2061132210451910782.json",
         "20260606143240_twitter_com_Coconut_QuQ_status_2063267836383117453.json"
       ],
-      "last_updated": "2026-08-02T03:55:53",
+      "last_updated": "2026-08-02T05:07:58",
       "last_reason": "无法识别 profile pid",
-      "miss_count": 2
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg": {
       "status": "done",
@@ -4797,9 +4797,9 @@
       "referenced_by": [
         "20260422200927_twitter_com_Coconut_QuQ_status_2047045137281548454.json"
       ],
-      "last_updated": "2026-08-02T03:55:57",
+      "last_updated": "2026-08-02T05:07:49",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260422200927if_/https://pbs.twimg.com/profile_images/2010876887136923648/-nk_ujMN_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1939972609023582210/TznrEwzJ_normal.jpg": {
       "status": "done",
@@ -4809,13 +4809,13 @@
       "last_updated": "2026-08-02T03:55:52"
     },
     "https://pbs.twimg.com/profile_images/2051621359911051264/pmMyp6A0_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260506120612_twitter_com_Coconut_QuQ_status_2051996954155192456.json"
       ],
-      "last_updated": "2026-08-02T03:55:56",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260506120612if_/https://pbs.twimg.com/profile_images/2051621359911051264/pmMyp6A0_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-08-02T05:07:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506120612if_/https://pbs.twimg.com/profile_images/2051621359911051264/pmMyp6A0_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fad220dd2e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg": {
       "status": "done",
@@ -4879,13 +4879,13 @@
       "last_updated": "2026-08-02T03:55:53"
     },
     "https://pbs.twimg.com/profile_images/2053202653052911616/NYq-Qh8__normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260520140625_twitter_com_Coconut_QuQ_status_2057100636978851957.json"
       ],
-      "last_updated": "2026-08-02T03:55:55",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260520140625if_/https://pbs.twimg.com/profile_images/2053202653052911616/NYq-Qh8__normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-08-02T05:07:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520140625im_/https://pbs.twimg.com/profile_images/2053202653052911616/NYq-Qh8__400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fad20f0bb90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2070205401761447936/GrxmeL71_normal.jpg": {
       "status": "done",
@@ -4959,7 +4959,7 @@
       "last_updated": "2026-08-02T03:55:54"
     },
     "20260216100815_twitter_com_Coconut_QuQ_status_2023338628953587989.json": {
-      "status": "failed_all",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -4967,7 +4967,7 @@
           "https://pbs.twimg.com/profile_images/2020832661141667841/fgZY2vkK_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T04:47:46",
+      "last_updated": "2026-08-02T05:07:44",
       "miss_count": 2
     },
     "20260216101901_twitter_com_Coconut_QuQ_status_2023341339216380126.json": {
@@ -9323,7 +9323,7 @@
       "last_updated": "2026-08-02T03:55:53"
     },
     "20260506120612_twitter_com_Coconut_QuQ_status_2051996954155192456.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -9332,7 +9332,7 @@
           "https://pbs.twimg.com/profile_images/2051621359911051264/pmMyp6A0_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T03:55:56"
+      "last_updated": "2026-08-02T05:07:55"
     },
     "20260507212039_twitter_com_Coconut_QuQ_status_2052498873319608407.json": {
       "status": "done",
@@ -10130,7 +10130,7 @@
       "miss_count": 2
     },
     "20260520140625_twitter_com_Coconut_QuQ_status_2057100636978851957.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10139,7 +10139,7 @@
           "https://pbs.twimg.com/profile_images/2053202653052911616/NYq-Qh8__normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T03:55:55"
+      "last_updated": "2026-08-02T05:07:58"
     },
     "20260520142232_twitter_com_Coconut_QuQ_status_2057104693428625849.json": {
       "status": "done",
