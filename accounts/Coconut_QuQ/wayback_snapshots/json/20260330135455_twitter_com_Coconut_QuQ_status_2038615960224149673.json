@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2038615960224149673",
+    "created_at": "2026-03-30T13:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038615960224149673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dc13332555/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/dc13332555/status/2038614567539110130",
+          "start": 20,
+          "url": "https://t.co/IrPgIkiYlD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038615960224149673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038614567539110130",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给五十块我现在割块肉寄给你 替我爱自己 https://t.co/IrPgIkiYlD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2038615960224149673",
+        "created_at": "2026-03-30T13:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038615960224149673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dc13332555/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/dc13332555/status/2038614567539110130",
+              "start": 20,
+              "url": "https://t.co/IrPgIkiYlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038615960224149673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038614567539110130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给五十块我现在割块肉寄给你 替我爱自己 https://t.co/IrPgIkiYlD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1330830063810482176",
+        "conversation_id": "2038607107063447748",
+        "created_at": "2026-03-30T13:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038614567539110130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038614567539110130",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038607107063447748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 爱自己 其他都是扯淡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5372,
+          "following_count": 23,
+          "like_count": 68,
+          "listed_count": 10,
+          "media_count": 31,
+          "tweet_count": 59
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-23T11:06:39.000Z",
+        "description": "",
+        "id": "1330830063810482176",
+        "name": "小孩酥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978140620657971200/Nek4Qsdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 135,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 65
+        },
+        "username": "DC13332555",
+        "verified": false
+      }
+    ]
+  }
+}

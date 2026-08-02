@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2038797988034949137",
+    "created_at": "2026-03-31T01:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038797988034949137"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038797988034949137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我妈就想着孩子不能单亲找个看起来还行的男的就结婚 结婚又觉得要给人家生个娃 生病又觉得不能离婚了 我小时候两个人就又打又叫 我长大一点能离婚了 爹地又生病给家里钱钱花光光 我书都读不起卧槽尼玛 要是我再蠢点真的百元出租屋上吊案例就有我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2038797988034949137",
+        "created_at": "2026-03-31T01:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038797988034949137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038797988034949137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈就想着孩子不能单亲找个看起来还行的男的就结婚 结婚又觉得要给人家生个娃 生病又觉得不能离婚了 我小时候两个人就又打又叫 我长大一点能离婚了 爹地又生病给家里钱钱花光光 我书都读不起卧槽尼玛 要是我再蠢点真的百元出租屋上吊案例就有我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5446,
+          "following_count": 23,
+          "like_count": 72,
+          "listed_count": 10,
+          "media_count": 31,
+          "tweet_count": 67
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

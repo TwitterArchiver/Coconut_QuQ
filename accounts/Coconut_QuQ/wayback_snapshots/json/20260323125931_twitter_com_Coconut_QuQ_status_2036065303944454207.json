@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2036065303944454207",
+    "created_at": "2026-03-23T12:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T13:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036065303944454207"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036065303944454207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就感觉所有伤害过我的人都应该祝我过好日子夹着尾巴在我面前做人 每次发什么逼事情我气消了谁都没怪谁都没理 反而呢把我包装成那个加害者 我只是觉得吵起来没好处懒得吵懒得叫懒得挂嫌烦 害我一个什么几把都没有什么都不需要的人有何意义我请问 把我逼急了谁也别几把过日子了呵呵 还工作不上学不请问"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2036065303944454207",
+        "created_at": "2026-03-23T12:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036065303944454207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036065303944454207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就感觉所有伤害过我的人都应该祝我过好日子夹着尾巴在我面前做人 每次发什么逼事情我气消了谁都没怪谁都没理 反而呢把我包装成那个加害者 我只是觉得吵起来没好处懒得吵懒得叫懒得挂嫌烦 害我一个什么几把都没有什么都不需要的人有何意义我请问 把我逼急了谁也别几把过日子了呵呵 还工作不上学不请问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5313,
+          "following_count": 20,
+          "like_count": 67,
+          "listed_count": 10,
+          "media_count": 31,
+          "tweet_count": 57
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

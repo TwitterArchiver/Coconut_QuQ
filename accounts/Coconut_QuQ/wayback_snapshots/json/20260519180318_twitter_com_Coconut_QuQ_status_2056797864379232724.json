@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2056797813003165696"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2056797864379232724",
+    "created_at": "2026-05-19T18:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T19:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056797864379232724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kuoyMD5yqs",
+          "end": 163,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2056797864379232724/photo/1",
+          "media_key": "16_2056797813003165696",
+          "start": 140,
+          "url": "https://t.co/kuoyMD5yqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056797864379232724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我每天一睡醒就12点了 然后不是要吃药吗 我就说药不能停啊药不能停啊吃吧吃吧 然后我就这样吃十八颗药对 那个什么消炎药加那个治皮肤的加那个神经病吃的然后再加那个内调的 天啊真的不死的那个医生跟我说你吃啊一起吃没事你吃 卧槽？我还打了三天消炎针 一次打两罐啊 蚊子咬我一下都死了吧 https://t.co/kuoyMD5yqs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2056797813003165696",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HIs2tqraoAAEWMx.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HIs2tqraoAAEWMx.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2056797813003165696"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2056797864379232724",
+        "created_at": "2026-05-19T18:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056797864379232724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kuoyMD5yqs",
+              "end": 163,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2056797864379232724/photo/1",
+              "media_key": "16_2056797813003165696",
+              "start": 140,
+              "url": "https://t.co/kuoyMD5yqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056797864379232724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天一睡醒就12点了 然后不是要吃药吗 我就说药不能停啊药不能停啊吃吧吃吧 然后我就这样吃十八颗药对 那个什么消炎药加那个治皮肤的加那个神经病吃的然后再加那个内调的 天啊真的不死的那个医生跟我说你吃啊一起吃没事你吃 卧槽？我还打了三天消炎针 一次打两罐啊 蚊子咬我一下都死了吧 https://t.co/kuoyMD5yqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5737,
+          "following_count": 23,
+          "like_count": 94,
+          "listed_count": 10,
+          "media_count": 36,
+          "tweet_count": 60
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

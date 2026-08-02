@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2056380790339150215",
+    "created_at": "2026-05-18T14:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056380790339150215"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056380790339150215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在这个世界收到什么反馈？总有傻逼说你咋是个男的？你是个男的还收打赏？各种各样恶心的话都让人想吐 为什么我赚不到其他钱 因为我不正常？也可以说我又当又立假自尊 小众群体又不是全磕药割手三观不正乱交卖淫 别人不代表我 我也不代表任何人 还有一群人都懒得喷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2056380790339150215",
+        "created_at": "2026-05-18T14:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056380790339150215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056380790339150215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在这个世界收到什么反馈？总有傻逼说你咋是个男的？你是个男的还收打赏？各种各样恶心的话都让人想吐 为什么我赚不到其他钱 因为我不正常？也可以说我又当又立假自尊 小众群体又不是全磕药割手三观不正乱交卖淫 别人不代表我 我也不代表任何人 还有一群人都懒得喷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5709,
+          "following_count": 23,
+          "like_count": 94,
+          "listed_count": 10,
+          "media_count": 35,
+          "tweet_count": 54
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

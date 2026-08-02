@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2056379533524455476",
+    "created_at": "2026-05-18T14:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056379533524455476"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056379533524455476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就喜欢性别模糊就喜欢瘦就喜欢穿孔纹身有时候就想穿的漏点拍拍照 不喜欢第二性征咋了 基本上我都回避这个问题 群体就有个体性 尤其是小众群体 有一帮人就脑子很有问题那种傻卵 男的女的都一大堆 但还是男的居多 完全男人本色 跨性别也那个逼样 同性恋更恐怖 看到都无语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2056379533524455476",
+        "created_at": "2026-05-18T14:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056379533524455476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056379533524455476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就喜欢性别模糊就喜欢瘦就喜欢穿孔纹身有时候就想穿的漏点拍拍照 不喜欢第二性征咋了 基本上我都回避这个问题 群体就有个体性 尤其是小众群体 有一帮人就脑子很有问题那种傻卵 男的女的都一大堆 但还是男的居多 完全男人本色 跨性别也那个逼样 同性恋更恐怖 看到都无语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5709,
+          "following_count": 23,
+          "like_count": 94,
+          "listed_count": 10,
+          "media_count": 35,
+          "tweet_count": 53
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

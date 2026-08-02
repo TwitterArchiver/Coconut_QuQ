@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2038824726920073493",
+    "created_at": "2026-03-31T03:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T04:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038824726920073493"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038824726920073493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽好想哭 刚睡着一个小时又鬼压床 有个人把腿放我身上疯狂压我转不过身看她是谁 睡眠瘫痪好诡异 我上次鬼压床梦到我变小了我妈边打我边叫我上学 吓哭了呀再活一次真的没力气 我是那种重生选择继续睡觉的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2038824726920073493",
+        "created_at": "2026-03-31T03:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038824726920073493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038824726920073493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽好想哭 刚睡着一个小时又鬼压床 有个人把腿放我身上疯狂压我转不过身看她是谁 睡眠瘫痪好诡异 我上次鬼压床梦到我变小了我妈边打我边叫我上学 吓哭了呀再活一次真的没力气 我是那种重生选择继续睡觉的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5447,
+          "following_count": 23,
+          "like_count": 72,
+          "listed_count": 10,
+          "media_count": 31,
+          "tweet_count": 65
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

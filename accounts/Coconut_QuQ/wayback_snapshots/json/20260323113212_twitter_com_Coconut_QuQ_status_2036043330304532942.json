@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2036033067689885725",
+    "created_at": "2026-03-23T11:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T12:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036043330304532942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "928568796662587393",
+          "start": 0,
+          "username": "berkerleyliu13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036043330304532942",
+    "in_reply_to_user_id": "928568796662587393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036041564292890899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@berkerleyliu13 你还国家栋梁呢 比我还可怜 发个社交平台都没人鸟 我都想抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2036033067689885725",
+        "created_at": "2026-03-23T11:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036043330304532942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "928568796662587393",
+              "start": 0,
+              "username": "berkerleyliu13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036043330304532942",
+        "in_reply_to_user_id": "928568796662587393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036041564292890899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berkerleyliu13 你还国家栋梁呢 比我还可怜 发个社交平台都没人鸟 我都想抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "928568796662587393",
+        "conversation_id": "2036033067689885725",
+        "created_at": "2026-03-23T11:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036041564292890899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036041564292890899",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036033067689885725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 那算我牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5308,
+          "following_count": 20,
+          "like_count": 64,
+          "listed_count": 10,
+          "media_count": 30,
+          "tweet_count": 51
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-09T10:23:47.000Z",
+        "description": "",
+        "id": "928568796662587393",
+        "name": "困",
+        "pinned_tweet_id": "2036036740281176181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964873423638908928/F03_otNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 5,
+          "like_count": 4792,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 131
+        },
+        "username": "berkerleyliu13",
+        "verified": false
+      }
+    ]
+  }
+}

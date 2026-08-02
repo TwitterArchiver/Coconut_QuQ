@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2056185402118246879",
+    "created_at": "2026-05-18T01:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T02:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056185402118246879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/coconut_quq/st…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/coconut_quq/status/2056183710467379410",
+          "start": 144,
+          "url": "https://t.co/AOk4BYrUT9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056185402118246879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056183710467379410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还好是自己长得没这么丑吧 代入那个年龄段的人真的男的女的都吓哭了 男生视角那个天天抽烟喝酒混社会一副死妈脸的娘炮 女生视角天天一口一个姐妹要和我牵手手的神经病 单出精神病这个牌我都被打成残疾人了好吧 只能说关爱智障儿童了 我有些同学真对我还行还带着我去酒吧玩 但那个时候13 14岁🌚👍 https://t.co/AOk4BYrUT9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2056185402118246879",
+        "created_at": "2026-05-18T01:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056185402118246879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coconut_quq/st…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/coconut_quq/status/2056183710467379410",
+              "start": 144,
+              "url": "https://t.co/AOk4BYrUT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056185402118246879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056183710467379410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还好是自己长得没这么丑吧 代入那个年龄段的人真的男的女的都吓哭了 男生视角那个天天抽烟喝酒混社会一副死妈脸的娘炮 女生视角天天一口一个姐妹要和我牵手手的神经病 单出精神病这个牌我都被打成残疾人了好吧 只能说关爱智障儿童了 我有些同学真对我还行还带着我去酒吧玩 但那个时候13 14岁🌚👍 https://t.co/AOk4BYrUT9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2056183710467379410",
+        "created_at": "2026-05-18T01:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056183710467379410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056183710467379410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前也觉得我没adhd呀充其量敢猜一个抑郁症 家里这么穷酸哪敢猜那种有钱人适合得的精神病呀 小时候还特别三八那种虽然现在也是个小婊子吧 代入部分正常同学视角看我跟撞鬼了没两样 小时候不是男的不跟我玩吗我就老和小女生扎堆搞那种擦边球 班主任还以为我早恋 其实我就是想气这帮男的因为不带我玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5708,
+          "following_count": 23,
+          "like_count": 91,
+          "listed_count": 10,
+          "media_count": 35,
+          "tweet_count": 49
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2063267836383117453",
+    "created_at": "2026-06-06T14:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063267836383117453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wse707499/stat…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/wse707499/status/2063134593365241976",
+          "start": 143,
+          "url": "https://t.co/Xp0K5EDAjI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063267836383117453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063134593365241976",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是一条高质量报备性推文 首先这里椰椰形容了自己近期的心情：无语 好烦 操你妈 其次这里椰椰表明了现在的坐标：广东（注：闽南的意思 很热很湿很烦躁住的不好吃的一般 急需一个高档小区住所）全文透露出椰椰生活无法自理需要他人使用金钱时间照顾 打出一张绿茶牌隐性卖惨 表达出令人心疼的心碎感 https://t.co/Xp0K5EDAjI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2063267836383117453",
+        "created_at": "2026-06-06T14:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063267836383117453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wse707499/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/wse707499/status/2063134593365241976",
+              "start": 143,
+              "url": "https://t.co/Xp0K5EDAjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063267836383117453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063134593365241976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是一条高质量报备性推文 首先这里椰椰形容了自己近期的心情：无语 好烦 操你妈 其次这里椰椰表明了现在的坐标：广东（注：闽南的意思 很热很湿很烦躁住的不好吃的一般 急需一个高档小区住所）全文透露出椰椰生活无法自理需要他人使用金钱时间照顾 打出一张绿茶牌隐性卖惨 表达出令人心疼的心碎感 https://t.co/Xp0K5EDAjI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030942369936482304",
+        "conversation_id": "2063065312623497444",
+        "created_at": "2026-06-06T05:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063134593365241976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063134593365241976",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063065312623497444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 那你应该去把蚊子的问题给解决，而不是在这里无语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5790,
+          "following_count": 22,
+          "like_count": 99,
+          "listed_count": 10,
+          "media_count": 37,
+          "tweet_count": 61
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T09:43:28.000Z",
+        "description": "",
+        "id": "2030942369936482304",
+        "name": "lyue",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Wse707499",
+        "verified": false
+      }
+    ]
+  }
+}

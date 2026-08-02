@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2042952076746199317",
+    "created_at": "2026-04-11T13:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T14:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042952076746199317"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042952076746199317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我正常的时候就这样 但是每次都怕把人吓晕我就和人家说我喝酒了不清醒 小孩子不懂事乱发的 有钱人不开心转头就去旅游了 我不开心只能拿着手机逼逼逼的敲键盘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2042952076746199317",
+        "created_at": "2026-04-11T13:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042952076746199317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042952076746199317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我正常的时候就这样 但是每次都怕把人吓晕我就和人家说我喝酒了不清醒 小孩子不懂事乱发的 有钱人不开心转头就去旅游了 我不开心只能拿着手机逼逼逼的敲键盘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5432,
+          "following_count": 22,
+          "like_count": 98,
+          "listed_count": 10,
+          "media_count": 38,
+          "tweet_count": 134
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

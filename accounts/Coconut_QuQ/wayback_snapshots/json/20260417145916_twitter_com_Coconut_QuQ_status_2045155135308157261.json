@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2045155135308157261",
+    "created_at": "2026-04-17T14:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045155135308157261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alecyangsenyu/…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/alecyangsenyu/status/2044924297567973481",
+          "start": 145,
+          "url": "https://t.co/oFYdwogGyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045155135308157261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044924297567973481",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我可以跟你们稍微聊一下这个话题 实际上只要你当下是幸福的怎么死都不痛苦 我有很严重的睡眠障碍 我爸刚去世的时候我一直在忙他的后事 后面有两次就快猝死了 大概就是心脏跳出来的感觉 呼吸困难会至幻会幻听 当下你看东西都是绿色的 感觉像焦虑症➕精分发作 想活特别想活因为你有那种生命在消失的感觉 https://t.co/oFYdwogGyu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2045155135308157261",
+        "created_at": "2026-04-17T14:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045155135308157261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alecyangsenyu/…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/alecyangsenyu/status/2044924297567973481",
+              "start": 145,
+              "url": "https://t.co/oFYdwogGyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045155135308157261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044924297567973481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可以跟你们稍微聊一下这个话题 实际上只要你当下是幸福的怎么死都不痛苦 我有很严重的睡眠障碍 我爸刚去世的时候我一直在忙他的后事 后面有两次就快猝死了 大概就是心脏跳出来的感觉 呼吸困难会至幻会幻听 当下你看东西都是绿色的 感觉像焦虑症➕精分发作 想活特别想活因为你有那种生命在消失的感觉 https://t.co/oFYdwogGyu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705284228752297984",
+        "conversation_id": "2044885193887232385",
+        "created_at": "2026-04-16T23:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T00:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044924297567973481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044924297567973481",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044885193887232385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 有啊，作到猝死，脑梗，心梗，这种秒死的就没什么痛苦，而且作的过程还挺爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5429,
+          "following_count": 22,
+          "like_count": 95,
+          "listed_count": 10,
+          "media_count": 38,
+          "tweet_count": 139
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T18:13:52.000Z",
+        "description": "",
+        "id": "1705284228752297984",
+        "name": "Alec",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705285982969528320/SAH8_5Kl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 125,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 128
+        },
+        "username": "Alecyangsenyu",
+        "verified": false
+      }
+    ]
+  }
+}

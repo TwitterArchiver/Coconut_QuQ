@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2057007749238829249",
+    "created_at": "2026-05-20T07:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057007749238829249"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/colesperson/st…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/colesperson/status/2056977834741248184",
+          "start": 41,
+          "url": "https://t.co/yTzdaK80mI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057007749238829249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056977834741248184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起，，我复制粘贴的 这样吧52w我给点赞评论的粉丝宝宝抽两万块钱吧 明天截止 https://t.co/yTzdaK80mI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2057007749238829249",
+        "created_at": "2026-05-20T07:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057007749238829249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/colesperson/st…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/colesperson/status/2056977834741248184",
+              "start": 41,
+              "url": "https://t.co/yTzdaK80mI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057007749238829249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056977834741248184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起，，我复制粘贴的 这样吧52w我给点赞评论的粉丝宝宝抽两万块钱吧 明天截止 https://t.co/yTzdaK80mI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590939682568736769",
+        "conversation_id": "2056977834741248184",
+        "created_at": "2026-05-20T05:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056977834741248184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coconut_quq/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/coconut_quq/status/2056774767605379321",
+              "start": 32,
+              "url": "https://t.co/vMXjocLq72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056977834741248184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 427,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056774767605379321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个小椰昨天收了52w转账就开始发这种无事发生的文案，666呀 https://t.co/vMXjocLq72"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5738,
+          "following_count": 23,
+          "like_count": 96,
+          "listed_count": 10,
+          "media_count": 35,
+          "tweet_count": 62
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "🚪8964，用来给南方大山里的孩子买姨妈巾/姨父巾用",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "汉命贵0975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983668137922064384/aKdXx6yC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2335,
+          "following_count": 1397,
+          "like_count": 28653,
+          "listed_count": 6,
+          "media_count": 920,
+          "tweet_count": 10352
+        },
+        "username": "ColesPerson",
+        "verified": false
+      }
+    ]
+  }
+}

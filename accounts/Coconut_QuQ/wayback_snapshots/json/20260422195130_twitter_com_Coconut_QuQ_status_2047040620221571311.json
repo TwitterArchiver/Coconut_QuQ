@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047040611417767936"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2047040620221571311",
+    "created_at": "2026-04-22T19:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T20:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047040620221571311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C9gQVY83hY",
+          "end": 140,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2047040620221571311/photo/1",
+          "media_key": "3_2047040611417767936",
+          "start": 117,
+          "url": "https://t.co/C9gQVY83hY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047040620221571311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的很累很崩溃 里面还有一堆帮朋友领的口令 实际收入四千块 加上直播也才六千块 四个月挣六千我有点想死了 私底下收的加起来一万多块吧 还完贷款付个医药费我已燃尽 每天还一帮小傻瓜烦我 26年对我好一点 我的一些容貌一些善良要消失了 https://t.co/C9gQVY83hY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047040611417767936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGiMlyRawAA15Rw.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047040611417767936"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2047040620221571311",
+        "created_at": "2026-04-22T19:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T20:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047040620221571311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9gQVY83hY",
+              "end": 140,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2047040620221571311/photo/1",
+              "media_key": "3_2047040611417767936",
+              "start": 117,
+              "url": "https://t.co/C9gQVY83hY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047040620221571311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很累很崩溃 里面还有一堆帮朋友领的口令 实际收入四千块 加上直播也才六千块 四个月挣六千我有点想死了 私底下收的加起来一万多块吧 还完贷款付个医药费我已燃尽 每天还一帮小傻瓜烦我 26年对我好一点 我的一些容貌一些善良要消失了 https://t.co/C9gQVY83hY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5507,
+          "following_count": 25,
+          "like_count": 98,
+          "listed_count": 11,
+          "media_count": 38,
+          "tweet_count": 143
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

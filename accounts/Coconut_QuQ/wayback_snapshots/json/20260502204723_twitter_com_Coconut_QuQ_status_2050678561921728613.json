@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2050678561921728613",
+    "created_at": "2026-05-02T20:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T21:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050678561921728613"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050678561921728613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "让我无语的事情就是真的惨到死全家的人才会心疼我无所谓我任何的发言无所谓我毫无顾忌的消费 这个世界所谓的成年人只是在权衡利与弊 也许我也这样也许我不一样 我只知道有些人愿意为我的错买单 这如此珍贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2050678561921728613",
+        "created_at": "2026-05-02T20:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T21:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050678561921728613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050678561921728613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让我无语的事情就是真的惨到死全家的人才会心疼我无所谓我任何的发言无所谓我毫无顾忌的消费 这个世界所谓的成年人只是在权衡利与弊 也许我也这样也许我不一样 我只知道有些人愿意为我的错买单 这如此珍贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5681,
+          "following_count": 26,
+          "like_count": 101,
+          "listed_count": 10,
+          "media_count": 34,
+          "tweet_count": 152
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

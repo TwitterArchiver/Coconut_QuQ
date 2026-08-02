@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035092346698964993"
+      ],
+      "media_source_tweet_id": [
+        "2035092379494224020"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2035122216313266400",
+    "created_at": "2026-03-20T22:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T23:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035122216313266400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971001664242057221",
+          "start": 3,
+          "username": "666nmslqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GckGBbFBUH",
+          "end": 62,
+          "expanded_url": "https://x.com/666nmslqwq/status/2035092379494224020/photo/1",
+          "media_key": "3_2035092346698964993",
+          "start": 39,
+          "url": "https://t.co/GckGBbFBUH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035122216313266400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035092379494224020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @666nmslqwq: 我们已经是主仆关系了，快来找我解锁特殊cg吧 https://t.co/GckGBbFBUH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2035122216313266400].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2035122216313266400",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2035122216313266400"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2035092346698964993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD4ZtPoboAEVer4.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035092346698964993"
+          ]
+        },
+        "author_id": "1971001664242057221",
+        "conversation_id": "2035092379494224020",
+        "created_at": "2026-03-20T20:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T21:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035092379494224020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GckGBbFBUH",
+              "end": 46,
+              "expanded_url": "https://x.com/666nmslqwq/status/2035092379494224020/photo/1",
+              "media_key": "3_2035092346698964993",
+              "start": 23,
+              "url": "https://t.co/GckGBbFBUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035092379494224020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 522,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们已经是主仆关系了，快来找我解锁特殊cg吧 https://t.co/GckGBbFBUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5090,
+          "following_count": 18,
+          "like_count": 63,
+          "listed_count": 10,
+          "media_count": 31,
+          "tweet_count": 47
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:00:02.000Z",
+        "description": "",
+        "id": "1971001664242057221",
+        "location": "🚪288 只回口令红包(-.-）",
+        "name": "幼猫病喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032152102726930432/6R0IeMKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8195,
+          "following_count": 0,
+          "like_count": 105,
+          "listed_count": 19,
+          "media_count": 6,
+          "tweet_count": 11
+        },
+        "username": "666nmslqwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2040540055765393573",
+    "created_at": "2026-04-04T21:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T22:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040540055765393573"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040540055765393573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实有点无语我过来玩有人问我是不是真的和那个瓜条里面的男的做爱了 os：卧槽牛逼 就拿我两张照片和聊天记录造谣 洁身自好纯爱党谢谢🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2040540055765393573",
+        "created_at": "2026-04-04T21:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T22:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040540055765393573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040540055765393573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实有点无语我过来玩有人问我是不是真的和那个瓜条里面的男的做爱了 os：卧槽牛逼 就拿我两张照片和聊天记录造谣 洁身自好纯爱党谢谢🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5532,
+          "following_count": 21,
+          "like_count": 87,
+          "listed_count": 10,
+          "media_count": 34,
+          "tweet_count": 76
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

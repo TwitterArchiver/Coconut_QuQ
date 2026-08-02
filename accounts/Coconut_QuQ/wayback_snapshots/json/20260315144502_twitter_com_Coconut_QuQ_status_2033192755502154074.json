@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033169655704256512"
+      ],
+      "media_source_tweet_id": [
+        "2033169658149470261"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2033192755502154074",
+    "created_at": "2026-03-15T14:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T15:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033192755502154074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2020260205653528577",
+          "start": 3,
+          "username": "Sakura070505"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z1OHAiN8c3",
+          "end": 51,
+          "expanded_url": "https://x.com/Sakura070505/status/2033169658149470261/photo/1",
+          "media_key": "3_2033169655704256512",
+          "start": 28,
+          "url": "https://t.co/Z1OHAiN8c3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033192755502154074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033169658149470261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakura070505: 我准备考个公兄弟们 https://t.co/Z1OHAiN8c3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033192755502154074].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033192755502154074",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033192755502154074"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1998,
+        "media_key": "3_2033169655704256512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdFB5hbAAAVZdq.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033169655704256512"
+          ]
+        },
+        "author_id": "2020260205653528577",
+        "conversation_id": "2033169658149470261",
+        "created_at": "2026-03-15T13:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033169658149470261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1OHAiN8c3",
+              "end": 33,
+              "expanded_url": "https://x.com/Sakura070505/status/2033169658149470261/photo/1",
+              "media_key": "3_2033169655704256512",
+              "start": 10,
+              "url": "https://t.co/Z1OHAiN8c3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033169658149470261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 273,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我准备考个公兄弟们 https://t.co/Z1OHAiN8c3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4928,
+          "following_count": 17,
+          "like_count": 59,
+          "listed_count": 10,
+          "media_count": 27,
+          "tweet_count": 42
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T22:15:56.000Z",
+        "description": "先天母犬，旧号又被X铁拳制裁了呜呜呜，抖音搜同名，可以在这里过也可以在抖音过哦宝宝们。先天母犬圣体，388，520，1314，5200🚪支付宝口令带姓哦宝宝们",
+        "id": "2020260205653528577",
+        "name": "我要逃避现实世界",
+        "pinned_tweet_id": "2020268009726579030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020265757783842817/UT5FFD-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 18,
+          "like_count": 22,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 12
+        },
+        "username": "Sakura070505",
+        "verified": true
+      }
+    ]
+  }
+}

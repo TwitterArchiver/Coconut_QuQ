@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2049221370601738632",
+    "created_at": "2026-04-28T20:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T21:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049221370601738632"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049221370601738632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好吧也没有一直被操 是一直被生活强奸 感觉一直被操还有点爽的 但我被生活强奸的像癌症晚期病人 有时候好享受这种被社会抛弃的感觉 有时候又想给自己捅几刀 好想当家养贵族犬我当底层败犬一直在吃屎 每天看着天花板好绝望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2049221370601738632",
+        "created_at": "2026-04-28T20:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T21:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049221370601738632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049221370601738632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吧也没有一直被操 是一直被生活强奸 感觉一直被操还有点爽的 但我被生活强奸的像癌症晚期病人 有时候好享受这种被社会抛弃的感觉 有时候又想给自己捅几刀 好想当家养贵族犬我当底层败犬一直在吃屎 每天看着天花板好绝望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5663,
+          "following_count": 25,
+          "like_count": 94,
+          "listed_count": 12,
+          "media_count": 34,
+          "tweet_count": 135
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

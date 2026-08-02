@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2050461924379521159",
+    "created_at": "2026-05-02T06:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050461924379521159"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050461924379521159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直希望所有人能把我和朋友解绑 为什么总提到我朋友就把我拉出来 椰椰谁都没惹 你们讨厌谁管我啥事啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2050461924379521159",
+        "created_at": "2026-05-02T06:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050461924379521159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050461924379521159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直希望所有人能把我和朋友解绑 为什么总提到我朋友就把我拉出来 椰椰谁都没惹 你们讨厌谁管我啥事啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5672,
+          "following_count": 26,
+          "like_count": 94,
+          "listed_count": 10,
+          "media_count": 33,
+          "tweet_count": 137
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

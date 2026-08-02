@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2042307862266065254",
+    "created_at": "2026-04-09T18:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T19:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042307862266065254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiaodong38544/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/jiaodong38544/status/2042300407444017485",
+          "start": 10,
+          "url": "https://t.co/cSAhWQCkE7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042307862266065254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042300407444017485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吉他张山东人傻狗😒 https://t.co/cSAhWQCkE7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2042307862266065254",
+        "created_at": "2026-04-09T18:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042307862266065254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiaodong38544/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/jiaodong38544/status/2042300407444017485",
+              "start": 10,
+              "url": "https://t.co/cSAhWQCkE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042307862266065254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042300407444017485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吉他张山东人傻狗😒 https://t.co/cSAhWQCkE7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009941993036886017",
+        "conversation_id": "2042130073772552417",
+        "created_at": "2026-04-09T17:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042300407444017485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042300407444017485",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042130073772552417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 你还是广东吉他张生的呢😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5435,
+          "following_count": 21,
+          "like_count": 95,
+          "listed_count": 9,
+          "media_count": 39,
+          "tweet_count": 122
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T10:55:21.000Z",
+        "description": "",
+        "id": "2009941993036886017",
+        "name": "轰焦冻",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 200,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 87
+        },
+        "username": "JiaoDong38544",
+        "verified": false
+      }
+    ]
+  }
+}

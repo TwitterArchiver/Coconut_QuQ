@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2077507299275587796",
+    "created_at": "2026-07-15T23:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T00:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077536335137841374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1900820652191608833",
+          "start": 0,
+          "username": "hikojiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077536335137841374",
+    "in_reply_to_user_id": "1900820652191608833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077507299275587796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikojiang 他这么多前女友你说的哪个我帮你问问 好无语呀我都觉得你有点可爱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077507291256115200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNTJ39Ga0AAWKf2.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2077507299275587796",
+        "created_at": "2026-07-15T23:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T00:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077536335137841374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1900820652191608833",
+              "start": 0,
+              "username": "hikojiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077536335137841374",
+        "in_reply_to_user_id": "1900820652191608833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077507299275587796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikojiang 他这么多前女友你说的哪个我帮你问问 好无语呀我都觉得你有点可爱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077507291256115200"
+          ]
+        },
+        "author_id": "1900820652191608833",
+        "conversation_id": "2077507299275587796",
+        "created_at": "2026-07-15T21:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T22:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077507299275587796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qrfwIPC2sU",
+              "end": 68,
+              "expanded_url": "https://x.com/hikojiang/status/2077507299275587796/photo/1",
+              "media_key": "3_2077507291256115200",
+              "start": 45,
+              "url": "https://t.co/qrfwIPC2sU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077507299275587796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家不用担心不是在打架时在玩s m 这个打他打人是树 他们俩还当着树当时的前女友草过逼呢 https://t.co/qrfwIPC2sU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5833,
+          "following_count": 27,
+          "like_count": 122,
+          "listed_count": 11,
+          "media_count": 55,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T08:05:45.000Z",
+        "description": "",
+        "id": "1900820652191608833",
+        "name": "夕依",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077085258034692096/JBo-s9w-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 26,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "hikojiang",
+        "verified": false
+      }
+    ]
+  }
+}

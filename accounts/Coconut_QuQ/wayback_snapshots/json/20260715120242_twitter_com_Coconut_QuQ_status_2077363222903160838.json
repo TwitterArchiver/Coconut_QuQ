@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077363212618702848"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2077363222903160838",
+    "created_at": "2026-07-15T12:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077363222903160838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oEwyihdVJ5",
+          "end": 99,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2077363222903160838/photo/1",
+          "media_key": "3_2077363212618702848",
+          "start": 76,
+          "url": "https://t.co/oEwyihdVJ5"
+        },
+        {
+          "display_url": "x.com/hikojiang/stat…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/hikojiang/status/2077242485928341995",
+          "start": 100,
+          "url": "https://t.co/42jwxQhR0J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077363222903160838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077242485928341995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我来给你流量啦宝宝 我只觉得我被朋友这样弄很可怜😂 原相机在这里&gt;_&lt; 讨厌我仅仅是因为我是男的那我没话说^ω^ 祝起号成功 上大号对线呀 https://t.co/oEwyihdVJ5 https://t.co/42jwxQhR0J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077363212618702848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRG1eWaIAAME9r.jpg",
+        "width": 942
+      },
+      {
+        "height": 1696,
+        "media_key": "3_2077242471340466176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPZBaCaYAAG5E3.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077242471340531713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPZBaCbYAEAeiy.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077363212618702848"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2077363222903160838",
+        "created_at": "2026-07-15T12:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077363222903160838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oEwyihdVJ5",
+              "end": 99,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2077363222903160838/photo/1",
+              "media_key": "3_2077363212618702848",
+              "start": 76,
+              "url": "https://t.co/oEwyihdVJ5"
+            },
+            {
+              "display_url": "x.com/hikojiang/stat…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/hikojiang/status/2077242485928341995",
+              "start": 100,
+              "url": "https://t.co/42jwxQhR0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077363222903160838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077242485928341995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来给你流量啦宝宝 我只觉得我被朋友这样弄很可怜😂 原相机在这里&gt;_&lt; 讨厌我仅仅是因为我是男的那我没话说^ω^ 祝起号成功 上大号对线呀 https://t.co/oEwyihdVJ5 https://t.co/42jwxQhR0J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077242471340466176",
+            "3_2077242471340531713"
+          ]
+        },
+        "author_id": "1900820652191608833",
+        "conversation_id": "2077242485928341995",
+        "created_at": "2026-07-15T04:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077242485928341995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VmL2shvgFq",
+              "end": 35,
+              "expanded_url": "https://x.com/hikojiang/status/2077242485928341995/photo/1",
+              "media_key": "3_2077242471340466176",
+              "start": 12,
+              "url": "https://t.co/VmL2shvgFq"
+            },
+            {
+              "display_url": "pic.x.com/VmL2shvgFq",
+              "end": 35,
+              "expanded_url": "https://x.com/hikojiang/status/2077242485928341995/photo/1",
+              "media_key": "3_2077242471340531713",
+              "start": 12,
+              "url": "https://t.co/VmL2shvgFq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077242485928341995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6314,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "本人与线下大家喜欢哪个 https://t.co/VmL2shvgFq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5824,
+          "following_count": 25,
+          "like_count": 122,
+          "listed_count": 11,
+          "media_count": 53,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T08:05:45.000Z",
+        "description": "",
+        "id": "1900820652191608833",
+        "name": "夕依",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077085258034692096/JBo-s9w-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 27,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "hikojiang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2050682262828777516",
+    "created_at": "2026-05-02T21:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T22:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050682262828777516"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050682262828777516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的无法融入人类社会 也许因为我精神有问题吧 但真的有问题吗 我不知道因为大家都说我很正常 我不知道正常是什么不正常是什么和大家一样就是正常吗 不一样就是正常吗 我不知道这让人困扰 在我的世界观里我只是喜怒哀乐要比其他人长一些 我需要的时间需要的爱多一些^_^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2050682262828777516",
+        "created_at": "2026-05-02T21:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T22:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050682262828777516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050682262828777516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的无法融入人类社会 也许因为我精神有问题吧 但真的有问题吗 我不知道因为大家都说我很正常 我不知道正常是什么不正常是什么和大家一样就是正常吗 不一样就是正常吗 我不知道这让人困扰 在我的世界观里我只是喜怒哀乐要比其他人长一些 我需要的时间需要的爱多一些^_^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5681,
+          "following_count": 26,
+          "like_count": 101,
+          "listed_count": 10,
+          "media_count": 34,
+          "tweet_count": 153
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

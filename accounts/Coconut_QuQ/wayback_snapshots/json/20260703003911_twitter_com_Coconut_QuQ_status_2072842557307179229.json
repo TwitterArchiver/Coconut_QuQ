@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2072751004496564514",
+    "created_at": "2026-07-03T00:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T01:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072842557307179229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1855263043053395968",
+          "start": 0,
+          "username": "MYBLOODY_VALENT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072842557307179229",
+    "in_reply_to_user_id": "1855263043053395968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072815697713864710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MYBLOODY_VALENT 克隆羊啊 精神小妹进化而来 我妮姐最喜欢干的事情就是理直气壮超厚脸皮拿别人纹身客稿狠狠遮盖自己的老传统线条 然后狠狠圈龟龟的门槛 至今纹身师未收到一分钱 全身盗图的廉价符文🙈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2072751004496564514",
+        "created_at": "2026-07-03T00:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072842557307179229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1855263043053395968",
+              "start": 0,
+              "username": "MYBLOODY_VALENT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072842557307179229",
+        "in_reply_to_user_id": "1855263043053395968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072815697713864710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MYBLOODY_VALENT 克隆羊啊 精神小妹进化而来 我妮姐最喜欢干的事情就是理直气壮超厚脸皮拿别人纹身客稿狠狠遮盖自己的老传统线条 然后狠狠圈龟龟的门槛 至今纹身师未收到一分钱 全身盗图的廉价符文🙈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855263043053395968",
+        "conversation_id": "2072751004496564514",
+        "created_at": "2026-07-02T22:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T23:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072815697713864710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072815697713864710",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072751004496564514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 这人干啥了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5813,
+          "following_count": 26,
+          "like_count": 109,
+          "listed_count": 11,
+          "media_count": 45,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T14:56:05.000Z",
+        "description": "",
+        "id": "1855263043053395968",
+        "name": "spam爱猫社区",
+        "pinned_tweet_id": "2062726050044321952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070205401761447936/GrxmeL71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 283,
+          "like_count": 847,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "MYBLOODY_VALENT",
+        "verified": false
+      }
+    ]
+  }
+}

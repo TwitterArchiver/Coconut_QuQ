@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2047050219981005251",
+    "created_at": "2026-04-22T20:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T21:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047050219981005251"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047050219981005251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男的意淫我就算了女的也要意淫 真的想给一群人捅好几刀看到就烦 身边朋友对我好完全就是因为劳资太穷太惨舍不得让我花钱 就看到好的东西自动过滤了 尼玛啊还一堆人天天说羡慕我 你想要你过来和我换啊 我把脸皮撕下来给你用 你来卖淫逆风翻盘 我经历的事情放在你身上要死好几条命 先生小姐我请你善良"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2047050219981005251",
+        "created_at": "2026-04-22T20:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T21:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047050219981005251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047050219981005251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男的意淫我就算了女的也要意淫 真的想给一群人捅好几刀看到就烦 身边朋友对我好完全就是因为劳资太穷太惨舍不得让我花钱 就看到好的东西自动过滤了 尼玛啊还一堆人天天说羡慕我 你想要你过来和我换啊 我把脸皮撕下来给你用 你来卖淫逆风翻盘 我经历的事情放在你身上要死好几条命 先生小姐我请你善良"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5506,
+          "following_count": 25,
+          "like_count": 101,
+          "listed_count": 11,
+          "media_count": 38,
+          "tweet_count": 148
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

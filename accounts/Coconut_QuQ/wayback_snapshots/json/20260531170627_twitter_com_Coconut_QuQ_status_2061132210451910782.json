@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2061132210451910782",
+    "created_at": "2026-05-31T17:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061132210451910782"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wse707499/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/wse707499/status/2061123954044289142",
+          "start": 15,
+          "url": "https://t.co/tQkHymhlRI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061132210451910782",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061123954044289142",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "wtf 我的痛苦和脸蛋很迷人 https://t.co/tQkHymhlRI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2061132210451910782",
+        "created_at": "2026-05-31T17:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061132210451910782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wse707499/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/wse707499/status/2061123954044289142",
+              "start": 15,
+              "url": "https://t.co/tQkHymhlRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061132210451910782",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061123954044289142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wtf 我的痛苦和脸蛋很迷人 https://t.co/tQkHymhlRI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030942369936482304",
+        "conversation_id": "2059547921989959833",
+        "created_at": "2026-05-31T16:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061123954044289142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061123954044289142",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059547921989959833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 你是我关注过的所有伪娘中最傻逼的一个，不发色情内容还想圈钱，净发点自己的伤感故事，感觉你就是他妈的在无病呻吟，我感觉你的家庭确实不好，但这也不是你自暴自弃的理由，你的脑回路也是特别的奇怪，你去选择自残磕药这种伤害自己的方式来摆脱困境，简直就是个弱智"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5796,
+          "following_count": 23,
+          "like_count": 99,
+          "listed_count": 10,
+          "media_count": 37,
+          "tweet_count": 58
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T09:43:28.000Z",
+        "description": "",
+        "id": "2030942369936482304",
+        "name": "lyue",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Wse707499",
+        "verified": false
+      }
+    ]
+  }
+}

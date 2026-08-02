@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2038612132171047346",
+    "created_at": "2026-03-30T13:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038612132171047346"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038612132171047346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我集美让我不要天天在推特卖惨多发几张骚照找金主 我这个小手就控制不住的的叭叭叭删删删 天天一堆负能量不知道扔哪里 微博都给我封了好几个 我尼玛好想哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2038612132171047346",
+        "created_at": "2026-03-30T13:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038612132171047346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038612132171047346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我集美让我不要天天在推特卖惨多发几张骚照找金主 我这个小手就控制不住的的叭叭叭删删删 天天一堆负能量不知道扔哪里 微博都给我封了好几个 我尼玛好想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5368,
+          "following_count": 23,
+          "like_count": 68,
+          "listed_count": 10,
+          "media_count": 31,
+          "tweet_count": 57
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

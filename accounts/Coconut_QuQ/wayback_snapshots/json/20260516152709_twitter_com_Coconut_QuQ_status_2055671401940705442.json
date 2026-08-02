@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2055671401940705442",
+    "created_at": "2026-05-16T15:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055671401940705442"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055671401940705442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又想看椰椰又舍不得消费 四月到现在一个新增门槛都木有！我天天在家坐吃山空中 还有一堆人说想见我 但是要我自己花钱 就感觉好像是我想见你 好讨厌免费的东西呀 没有价值"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2055671401940705442",
+        "created_at": "2026-05-16T15:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055671401940705442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055671401940705442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又想看椰椰又舍不得消费 四月到现在一个新增门槛都木有！我天天在家坐吃山空中 还有一堆人说想见我 但是要我自己花钱 就感觉好像是我想见你 好讨厌免费的东西呀 没有价值"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5707,
+          "following_count": 24,
+          "like_count": 91,
+          "listed_count": 10,
+          "media_count": 37,
+          "tweet_count": 48
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

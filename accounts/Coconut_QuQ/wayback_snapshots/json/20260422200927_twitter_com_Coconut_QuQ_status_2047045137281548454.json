@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2047045137281548454",
+    "created_at": "2026-04-22T20:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T21:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047045137281548454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sadlyer/status…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/sadlyer/status/2047042508748894350",
+          "start": 136,
+          "url": "https://t.co/XG4Rl0bev7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047045137281548454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047042508748894350",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那只是你跟我不熟啊 网上的东西只是给人看的啊 谁又关心我进icu付的医药费 谁又鸟我每个月开药还贷款要花多少钱 前两年我还租房子呢开销大的不行 拍照又要到处跑 漂亮是钱砸出来的 要用钱的地方多的要死跟无底洞一样往里扔 天天被意淫有几个金主有几个提款机 我尼玛心酸得要死了 https://t.co/XG4Rl0bev7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2047045137281548454",
+        "created_at": "2026-04-22T20:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T21:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047045137281548454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sadlyer/status…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/sadlyer/status/2047042508748894350",
+              "start": 136,
+              "url": "https://t.co/XG4Rl0bev7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047045137281548454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047042508748894350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那只是你跟我不熟啊 网上的东西只是给人看的啊 谁又关心我进icu付的医药费 谁又鸟我每个月开药还贷款要花多少钱 前两年我还租房子呢开销大的不行 拍照又要到处跑 漂亮是钱砸出来的 要用钱的地方多的要死跟无底洞一样往里扔 天天被意淫有几个金主有几个提款机 我尼玛心酸得要死了 https://t.co/XG4Rl0bev7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995243049673515008",
+        "conversation_id": "2047040620221571311",
+        "created_at": "2026-04-22T19:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T20:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047042508748894350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047042508748894350",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047040620221571311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 可是我觉得你很有钱啊，25 年还是 24 年的时候，还抽过 1314，还收到过 18888 的红包，而且你长这么好看，想赚钱也不难吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5506,
+          "following_count": 25,
+          "like_count": 99,
+          "listed_count": 11,
+          "media_count": 38,
+          "tweet_count": 146
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T21:26:38.000Z",
+        "description": "🚪88 只回复支付宝口令 接线下 频道https://t.co/sEqlHPjaBg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sadlyer2",
+                "end": 42,
+                "expanded_url": "https://t.me/sadlyer2",
+                "start": 19,
+                "url": "https://t.co/sEqlHPjaBg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadlyer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sadlyer",
+                "start": 0,
+                "url": "https://t.co/062nQ77JNY"
+              }
+            ]
+          }
+        },
+        "id": "1995243049673515008",
+        "location": "坐标河南 全国空降",
+        "name": "sadlyer",
+        "pinned_tweet_id": "2044788588211261732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010876887136923648/-nk_ujMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3414,
+          "following_count": 30,
+          "like_count": 117,
+          "listed_count": 13,
+          "media_count": 60,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/062nQ77JNY",
+        "username": "sadlyer",
+        "verified": false
+      }
+    ]
+  }
+}

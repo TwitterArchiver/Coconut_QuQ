@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052863106624483328"
+      ],
+      "media_source_tweet_id": [
+        "2052863116455927938"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2053037718477922542",
+    "created_at": "2026-05-09T09:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053037718477922542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894760369153085440",
+          "start": 3,
+          "username": "Me_0923814"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Kj6aNaE0e",
+          "end": 56,
+          "expanded_url": "https://x.com/Me_0923814/status/2052863116455927938/photo/1",
+          "media_key": "3_2052863106624483328",
+          "start": 33,
+          "url": "https://t.co/7Kj6aNaE0e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053037718477922542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052863116455927938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Me_0923814: 我無法言說的愛意變成了痛苦的傷痕 https://t.co/7Kj6aNaE0e"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053037718477922542].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053037718477922542",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053037718477922542"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052863106624483328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH08HnLbcAAWFeN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052863106624483328"
+          ]
+        },
+        "author_id": "1894760369153085440",
+        "conversation_id": "2052863116455927938",
+        "created_at": "2026-05-08T21:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T22:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052863116455927938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Kj6aNaE0e",
+              "end": 40,
+              "expanded_url": "https://x.com/Me_0923814/status/2052863116455927938/photo/1",
+              "media_key": "3_2052863106624483328",
+              "start": 17,
+              "url": "https://t.co/7Kj6aNaE0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052863116455927938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 1836,
+          "like_count": 267,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "我無法言說的愛意變成了痛苦的傷痕 https://t.co/7Kj6aNaE0e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5683,
+          "following_count": 25,
+          "like_count": 89,
+          "listed_count": 10,
+          "media_count": 33,
+          "tweet_count": 45
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T14:44:21.000Z",
+        "description": "",
+        "id": "1894760369153085440",
+        "name": "並非我",
+        "pinned_tweet_id": "2049711821863694395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000576211203035136/pWKAS1a2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 9,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "username": "Me_0923814",
+        "verified": false
+      }
+    ]
+  }
+}

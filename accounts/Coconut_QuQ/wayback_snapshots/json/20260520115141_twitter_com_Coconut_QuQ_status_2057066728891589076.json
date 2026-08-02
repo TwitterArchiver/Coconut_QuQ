@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2057066728891589076",
+    "created_at": "2026-05-20T11:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057066728891589076"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057066728891589076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有人说我给凉兮包养了 说我有对象说我一个月赚十几万 说我长得漂亮不可能这么穷 我操你们妈一帮子丑逼贱货天天欺负我 注销账号跑路了 我去试药卖器官就是了 一直在整我一直在玩我 本来火气就大老爹死了一分没留欠一屁股债房子我也一分没有 我连着拔两颗智齿 真的没有心有些人 马上得hiv自慰被电死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2057066728891589076",
+        "created_at": "2026-05-20T11:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057066728891589076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057066728891589076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有人说我给凉兮包养了 说我有对象说我一个月赚十几万 说我长得漂亮不可能这么穷 我操你们妈一帮子丑逼贱货天天欺负我 注销账号跑路了 我去试药卖器官就是了 一直在整我一直在玩我 本来火气就大老爹死了一分没留欠一屁股债房子我也一分没有 我连着拔两颗智齿 真的没有心有些人 马上得hiv自慰被电死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5744,
+          "following_count": 23,
+          "like_count": 97,
+          "listed_count": 10,
+          "media_count": 35,
+          "tweet_count": 65
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

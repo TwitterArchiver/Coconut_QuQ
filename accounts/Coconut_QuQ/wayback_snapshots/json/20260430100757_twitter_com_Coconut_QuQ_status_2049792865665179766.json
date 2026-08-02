@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2049792865665179766",
+    "created_at": "2026-04-30T10:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T11:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049792865665179766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/silverfang88/s…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/silverfang88/status/2049688807415615959",
+          "start": 90,
+          "url": "https://t.co/13coLn2f33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049792865665179766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049688807415615959",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得你这种人死妈了 爱写文章你就写文章 直接拿别人的照片视频搏眼球圈浏览量赚钱😛 别人赚钱还拍几张裸照拿出去发呢 经过人同意了吗就偷 你这样活不久几天的 还潜伏你以为你是特工啊 https://t.co/13coLn2f33"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49875,
+        "height": 960,
+        "media_key": "13_2049688730999697408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049688730999697408/img/pYIANEThXZy95Q3_.jpg",
+        "public_metrics": {
+          "view_count": 66767
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049688730999697408/vid/avc1/320x426/r3xSfRn7JPfecfqN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049688730999697408/vid/avc1/480x640/LX_OjTqds8vLTclD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049688730999697408/vid/avc1/720x960/6efihsK_H8ItGe9l.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049688730999697408/pl/83iH8P6Gy4-2VnMz.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049688730974519296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHH1CoXbgAAYaxO.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2049792865665179766",
+        "created_at": "2026-04-30T10:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049792865665179766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/silverfang88/s…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/silverfang88/status/2049688807415615959",
+              "start": 90,
+              "url": "https://t.co/13coLn2f33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049792865665179766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049688807415615959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得你这种人死妈了 爱写文章你就写文章 直接拿别人的照片视频搏眼球圈浏览量赚钱😛 别人赚钱还拍几张裸照拿出去发呢 经过人同意了吗就偷 你这样活不久几天的 还潜伏你以为你是特工啊 https://t.co/13coLn2f33"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049688730999697408",
+            "3_2049688730974519296"
+          ]
+        },
+        "author_id": "1435990322702520320",
+        "conversation_id": "2049688807415615959",
+        "created_at": "2026-04-30T03:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049688807415615959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YdJWof4sTo",
+              "end": 162,
+              "expanded_url": "https://x.com/silverfang88/status/2049688807415615959/video/1",
+              "media_key": "13_2049688730999697408",
+              "start": 139,
+              "url": "https://t.co/YdJWof4sTo"
+            },
+            {
+              "display_url": "pic.x.com/YdJWof4sTo",
+              "end": 162,
+              "expanded_url": "https://x.com/silverfang88/status/2049688807415615959/video/1",
+              "media_key": "3_2049688730974519296",
+              "start": 139,
+              "url": "https://t.co/YdJWof4sTo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049688807415615959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近因为拉了很多05后进群\n终于跑到了年轻人的地方\n挂壁群\n观察了几天\n\n感觉和当年非主流\n看似可能也差不多\n但是也有很多不同\n非主流是对发型有独特追求\n\n我看现在的05-10后\n气球成瘾、滥用药物的还是极少数\n主要就是许愿米米、挂壁、视觉系的\n大家混一起拍点裸照、穿各种丝袜\n模仿hentai的下坠和雌堕啥的\n\n可能是乔布斯当年接触的\n嬉皮士文化的变种\n也掺杂了很多日漫二次元/日系/亚比\n\n你想连乔布斯曾经都是这样的\n里面的天才还是很多的\n毕竟AI以后肯定会杀死全部应试教育的\n与这个世界不同\n反而可能是最大的优势"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 126554,
+          "like_count": 359,
+          "quote_count": 1,
+          "reply_count": 138,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "最近因为拉了很多05后进群\n终于跑到了年轻人的地方\n挂壁群\n观察了几天\n\n感觉和当年非主流\n看似可能也差不多\n但是也有很多不同\n非主流是对发型有独特追求\n\n我看现在的05-10后\n气球成瘾、滥用药物的还是极少数\n主要就是许愿米米、挂壁、视觉系的\n大家混一起拍点裸照、穿各种丝袜 https://t.co/YdJWof4sTo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5662,
+          "following_count": 25,
+          "like_count": 95,
+          "listed_count": 11,
+          "media_count": 35,
+          "tweet_count": 139
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T15:36:07.000Z",
+        "description": "商业观察 战略咨询｜Crypto入口,OKX就够,最全交易工具,畅游130+公链,极速交易热门Meme 🔗https://t.co/2xvR6AW4jb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "okx.com",
+                "end": 76,
+                "expanded_url": "http://okx.com",
+                "start": 53,
+                "url": "https://t.co/2xvR6AW4jb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/alphat1am",
+                "end": 23,
+                "expanded_url": "https://t.me/alphat1am",
+                "start": 0,
+                "url": "https://t.co/PWhIML27vv"
+              }
+            ]
+          }
+        },
+        "id": "1435990322702520320",
+        "location": "2 steps ahead",
+        "name": "子时",
+        "pinned_tweet_id": "1768206754138009955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939972609023582210/TznrEwzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88955,
+          "following_count": 3080,
+          "like_count": 21079,
+          "listed_count": 1456,
+          "media_count": 3307,
+          "tweet_count": 18305
+        },
+        "url": "https://t.co/PWhIML27vv",
+        "username": "silverfang88",
+        "verified": true
+      }
+    ]
+  }
+}

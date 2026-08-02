@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050285149049520128"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2050285160307003618",
+    "created_at": "2026-05-01T18:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T19:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050285160307003618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0gTAZs3ZvK",
+          "end": 34,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2050285160307003618/photo/1",
+          "media_key": "3_2050285149049520128",
+          "start": 11,
+          "url": "https://t.co/0gTAZs3ZvK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050285160307003618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一年被封了八百个号😂 https://t.co/0gTAZs3ZvK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050285149049520128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQTeu1bAAAFUsh.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050285149049520128"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2050285160307003618",
+        "created_at": "2026-05-01T18:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T19:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050285160307003618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0gTAZs3ZvK",
+              "end": 34,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2050285160307003618/photo/1",
+              "media_key": "3_2050285149049520128",
+              "start": 11,
+              "url": "https://t.co/0gTAZs3ZvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050285160307003618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一年被封了八百个号😂 https://t.co/0gTAZs3ZvK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5673,
+          "following_count": 26,
+          "like_count": 92,
+          "listed_count": 10,
+          "media_count": 33,
+          "tweet_count": 135
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

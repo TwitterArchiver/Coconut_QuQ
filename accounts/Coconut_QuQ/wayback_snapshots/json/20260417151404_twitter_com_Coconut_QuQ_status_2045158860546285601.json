@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2045158860546285601",
+    "created_at": "2026-04-17T15:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045158860546285601"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045158860546285601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对死亡看得很淡 可能是因为身边走的人太多活的人太累太没有希望 很相信命运 未来是一个未知数 所以从来不做打算 我只等待别人选择我 生命真的很短暂呀 这辈子要做的事情只有让真正喜欢你在意你的人不要太担心 不谈爱有在意你这个心就弥足珍贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2045158860546285601",
+        "created_at": "2026-04-17T15:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045158860546285601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045158860546285601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对死亡看得很淡 可能是因为身边走的人太多活的人太累太没有希望 很相信命运 未来是一个未知数 所以从来不做打算 我只等待别人选择我 生命真的很短暂呀 这辈子要做的事情只有让真正喜欢你在意你的人不要太担心 不谈爱有在意你这个心就弥足珍贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5429,
+          "following_count": 22,
+          "like_count": 95,
+          "listed_count": 10,
+          "media_count": 38,
+          "tweet_count": 140
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

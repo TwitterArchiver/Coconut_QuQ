@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2030313527924433078",
+    "created_at": "2026-03-07T16:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T17:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030313527924433078"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030313527924433078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在杭州我梦到我死了回宇宙变成小星星一直像书一样的回忆录不知道尼玛等了多久突然睁开眼睛我还躺那床上睡觉呢 搞得我懵逼死了真的有复活赛打啊我操以为你们开玩笑呢 还是因为我死太多朋友然后疯狂心理暗示人死了会复活逼我好好面对生活 不造啊好懵逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2030313527924433078",
+        "created_at": "2026-03-07T16:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030313527924433078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030313527924433078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在杭州我梦到我死了回宇宙变成小星星一直像书一样的回忆录不知道尼玛等了多久突然睁开眼睛我还躺那床上睡觉呢 搞得我懵逼死了真的有复活赛打啊我操以为你们开玩笑呢 还是因为我死太多朋友然后疯狂心理暗示人死了会复活逼我好好面对生活 不造啊好懵逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4139,
+          "following_count": 15,
+          "like_count": 37,
+          "listed_count": 7,
+          "media_count": 21,
+          "tweet_count": 33
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

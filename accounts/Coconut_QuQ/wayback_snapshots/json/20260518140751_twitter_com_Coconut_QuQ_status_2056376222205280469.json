@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2056376222205280469",
+    "created_at": "2026-05-18T14:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056376222205280469"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056376222205280469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "而且很无语的一件事我是男生 都想急头白脸疯狂卖手术费做逼了（没有性别对立的意思🌚）我很恶心别人说的一些话 我对自己的器官无异议啊 一群非二元也很多傻卵 你不做胸？你不打药？你不想变成女生？男的跟我讲的什么？小男娘？ts？不会怀孕的老婆？完全否定我作为一个人的主体性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2056376222205280469",
+        "created_at": "2026-05-18T14:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056376222205280469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056376222205280469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "而且很无语的一件事我是男生 都想急头白脸疯狂卖手术费做逼了（没有性别对立的意思🌚）我很恶心别人说的一些话 我对自己的器官无异议啊 一群非二元也很多傻卵 你不做胸？你不打药？你不想变成女生？男的跟我讲的什么？小男娘？ts？不会怀孕的老婆？完全否定我作为一个人的主体性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5709,
+          "following_count": 23,
+          "like_count": 93,
+          "listed_count": 10,
+          "media_count": 35,
+          "tweet_count": 52
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

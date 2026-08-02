@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2057009318764196284",
+    "created_at": "2026-05-20T14:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057100636978851957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1977236158842310656",
+          "start": 0,
+          "username": "Usumga1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057100636978851957",
+    "in_reply_to_user_id": "1977236158842310656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057100174015844614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Usumga1 假的啊给你们转着玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2057009318764196284",
+        "created_at": "2026-05-20T14:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057100636978851957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1977236158842310656",
+              "start": 0,
+              "username": "Usumga1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057100636978851957",
+        "in_reply_to_user_id": "1977236158842310656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057100174015844614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usumga1 假的啊给你们转着玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977236158842310656",
+        "conversation_id": "2057009318764196284",
+        "created_at": "2026-05-20T14:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057100174015844614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057100174015844614",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057009318764196284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 这是真的假的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5752,
+          "following_count": 23,
+          "like_count": 98,
+          "listed_count": 10,
+          "media_count": 36,
+          "tweet_count": 69
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T04:53:43.000Z",
+        "description": "我的生活我的想法",
+        "id": "1977236158842310656",
+        "name": "i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053202653052911616/NYq-Qh8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 81,
+          "like_count": 353,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 41
+        },
+        "username": "Usumga1",
+        "verified": false
+      }
+    ]
+  }
+}

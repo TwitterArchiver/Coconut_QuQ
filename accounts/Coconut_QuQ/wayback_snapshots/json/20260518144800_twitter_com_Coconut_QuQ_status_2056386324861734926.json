@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2056386324861734926",
+    "created_at": "2026-05-18T14:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056386324861734926"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056386324861734926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么没去上班 那个时候没成年没学历身上全是疤我还在小县城 我想的就是努力活到成年我就可以打工了 然并卵身上更多疤了 还有点恋痛纹身穿孔搞一下搞一下 因为我不正常的更恐怖了 社会化让我接触活人的恶意还不如网上骂的多点无所谓 出去卖好歹1对1 真的每天以泪洗面割腕吞药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2056386324861734926",
+        "created_at": "2026-05-18T14:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056386324861734926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056386324861734926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没去上班 那个时候没成年没学历身上全是疤我还在小县城 我想的就是努力活到成年我就可以打工了 然并卵身上更多疤了 还有点恋痛纹身穿孔搞一下搞一下 因为我不正常的更恐怖了 社会化让我接触活人的恶意还不如网上骂的多点无所谓 出去卖好歹1对1 真的每天以泪洗面割腕吞药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5709,
+          "following_count": 23,
+          "like_count": 94,
+          "listed_count": 10,
+          "media_count": 35,
+          "tweet_count": 56
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

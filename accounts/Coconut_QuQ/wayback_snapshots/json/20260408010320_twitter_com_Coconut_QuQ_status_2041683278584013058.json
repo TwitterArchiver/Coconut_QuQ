@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2041683278584013058",
+    "created_at": "2026-04-08T01:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041683278584013058"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041683278584013058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在又吃了一颗安眠药和买的消炎药 因为智齿发炎太痛了啊啊啊 真的老了的感觉 赶紧睡一觉随机刷新一下身体状态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2041683278584013058",
+        "created_at": "2026-04-08T01:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041683278584013058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041683278584013058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在又吃了一颗安眠药和买的消炎药 因为智齿发炎太痛了啊啊啊 真的老了的感觉 赶紧睡一觉随机刷新一下身体状态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5488,
+          "following_count": 21,
+          "like_count": 91,
+          "listed_count": 9,
+          "media_count": 37,
+          "tweet_count": 92
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

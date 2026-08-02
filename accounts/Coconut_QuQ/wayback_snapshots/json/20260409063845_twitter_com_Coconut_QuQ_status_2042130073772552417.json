@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2042130073772552417",
+    "created_at": "2026-04-09T06:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042130073772552417"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042130073772552417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "广东人的命就是很贱 从小到大湿气重的要死一直疯狂生病生病 我没看哪个东北佬和广东人一样脆的 东北人一脚过去广东人肺都吐出来了好吗 真的打心里觉得出生在广东很可怜 广州一群热带地区外国佬 死蚊子咬两下我都要去世了 卧槽尼玛还一堆老鼠蟑螂 我可以写两万字的书地域黑广东一个字都不会重复信不信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2042130073772552417",
+        "created_at": "2026-04-09T06:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042130073772552417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042130073772552417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广东人的命就是很贱 从小到大湿气重的要死一直疯狂生病生病 我没看哪个东北佬和广东人一样脆的 东北人一脚过去广东人肺都吐出来了好吗 真的打心里觉得出生在广东很可怜 广州一群热带地区外国佬 死蚊子咬两下我都要去世了 卧槽尼玛还一堆老鼠蟑螂 我可以写两万字的书地域黑广东一个字都不会重复信不信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5446,
+          "following_count": 21,
+          "like_count": 94,
+          "listed_count": 9,
+          "media_count": 39,
+          "tweet_count": 110
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

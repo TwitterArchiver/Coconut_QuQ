@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2041375407581311155",
+    "created_at": "2026-04-07T04:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041375407581311155"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041375407581311155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我今天喝了一瓶伏特加来玩过山车的 那个医生在天上失望的看着我 总之就是感觉人各有命吧早死晚死都得死有木有🙈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2041375407581311155",
+        "created_at": "2026-04-07T04:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041375407581311155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041375407581311155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我今天喝了一瓶伏特加来玩过山车的 那个医生在天上失望的看着我 总之就是感觉人各有命吧早死晚死都得死有木有🙈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5511,
+          "following_count": 21,
+          "like_count": 91,
+          "listed_count": 9,
+          "media_count": 36,
+          "tweet_count": 90
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

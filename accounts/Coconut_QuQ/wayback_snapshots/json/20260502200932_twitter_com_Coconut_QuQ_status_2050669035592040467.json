@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2050669035592040467",
+    "created_at": "2026-05-02T20:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T21:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050669035592040467"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050669035592040467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没当我的狗之前我都不会相信你喜欢我 我的世界观就是如此扭曲且愚蠢 去年就应该死了仅仅是因为去年我闺蜜说我今年走大运所以还活着😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2050669035592040467",
+        "created_at": "2026-05-02T20:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T21:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050669035592040467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050669035592040467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没当我的狗之前我都不会相信你喜欢我 我的世界观就是如此扭曲且愚蠢 去年就应该死了仅仅是因为去年我闺蜜说我今年走大运所以还活着😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5678,
+          "following_count": 26,
+          "like_count": 100,
+          "listed_count": 10,
+          "media_count": 34,
+          "tweet_count": 146
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

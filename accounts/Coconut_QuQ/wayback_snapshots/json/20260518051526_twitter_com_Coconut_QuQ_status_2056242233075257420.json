@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056242224011304960"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2056242233075257420",
+    "created_at": "2026-05-18T05:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T06:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056242233075257420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gEavv0NoYX",
+          "end": 64,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2056242233075257420/photo/1",
+          "media_key": "3_2056242224011304960",
+          "start": 41,
+          "url": "https://t.co/gEavv0NoYX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056242233075257420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就是这种感觉 疯狂发帖删帖给我账号降权重降的好厉害 全家老小靠社交平台过日子啊😅 https://t.co/gEavv0NoYX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 319,
+        "media_key": "3_2056242224011304960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk9aIZaYAA2y73.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056242224011304960"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2056242233075257420",
+        "created_at": "2026-05-18T05:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056242233075257420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gEavv0NoYX",
+              "end": 64,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2056242233075257420/photo/1",
+              "media_key": "3_2056242224011304960",
+              "start": 41,
+              "url": "https://t.co/gEavv0NoYX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056242233075257420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是这种感觉 疯狂发帖删帖给我账号降权重降的好厉害 全家老小靠社交平台过日子啊😅 https://t.co/gEavv0NoYX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5708,
+          "following_count": 23,
+          "like_count": 93,
+          "listed_count": 10,
+          "media_count": 36,
+          "tweet_count": 49
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

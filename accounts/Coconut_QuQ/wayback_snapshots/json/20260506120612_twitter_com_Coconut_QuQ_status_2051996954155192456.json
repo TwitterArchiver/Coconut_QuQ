@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2051996954155192456",
+    "created_at": "2026-05-06T12:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051996954155192456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1676784270310768640",
+          "start": 3,
+          "username": "wocaonima_twt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051996954155192456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051996911230710260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @wocaonima_twt: 逼逼逼你满脑子的都是逼 我操你妈逼！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2051996954155192456",
+        "created_at": "2026-05-06T12:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051996954155192456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1676784270310768640",
+              "start": 3,
+              "username": "wocaonima_twt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051996954155192456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051996911230710260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @wocaonima_twt: 逼逼逼你满脑子的都是逼 我操你妈逼！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676784270310768640",
+        "conversation_id": "2051996911230710260",
+        "created_at": "2026-05-06T12:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051996911230710260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051996911230710260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "逼逼逼你满脑子的都是逼 我操你妈逼！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓\n私信没回私👉🏻@wocaonima_twt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "wocaonima_twt"
+              }
+            ]
+          }
+        },
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5693,
+          "following_count": 27,
+          "like_count": 86,
+          "listed_count": 11,
+          "media_count": 32,
+          "tweet_count": 40
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T02:45:09.000Z",
+        "description": "不对任何言论负责 得闲扔点血图",
+        "id": "1676784270310768640",
+        "name": "死于非命",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051621359911051264/pmMyp6A0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 0,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "wocaonima_twt",
+        "verified": false
+      }
+    ]
+  }
+}

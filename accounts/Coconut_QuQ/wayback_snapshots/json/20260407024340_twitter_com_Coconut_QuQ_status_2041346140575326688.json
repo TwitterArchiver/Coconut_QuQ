@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2041346140575326688",
+    "created_at": "2026-04-07T02:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T03:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041346140575326688"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041346140575326688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在长隆吓哭了 玩那个项目好想崩溃大哭 不是？大姐姐这真的是人类玩的吗 应该不会死吧 好吓人一瞬间意识到自己还是一个糖逼小学生 纹身用来吓人的呀…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2041346140575326688",
+        "created_at": "2026-04-07T02:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T03:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041346140575326688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041346140575326688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在长隆吓哭了 玩那个项目好想崩溃大哭 不是？大姐姐这真的是人类玩的吗 应该不会死吧 好吓人一瞬间意识到自己还是一个糖逼小学生 纹身用来吓人的呀…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5516,
+          "following_count": 21,
+          "like_count": 91,
+          "listed_count": 9,
+          "media_count": 36,
+          "tweet_count": 89
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

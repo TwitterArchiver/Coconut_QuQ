@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2032184475518713863",
+        "13_2032184475501891584",
+        "3_2032184475527036928"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2032184627750977581",
+    "created_at": "2026-03-12T19:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T20:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032184627750977581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/885QBWtti3",
+          "end": 88,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2032184627750977581/video/1",
+          "media_key": "13_2032184475518713863",
+          "start": 65,
+          "url": "https://t.co/885QBWtti3"
+        },
+        {
+          "display_url": "pic.x.com/885QBWtti3",
+          "end": 88,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2032184627750977581/video/1",
+          "media_key": "13_2032184475501891584",
+          "start": 65,
+          "url": "https://t.co/885QBWtti3"
+        },
+        {
+          "display_url": "pic.x.com/885QBWtti3",
+          "end": 88,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2032184627750977581/video/1",
+          "media_key": "3_2032184475527036928",
+          "start": 65,
+          "url": "https://t.co/885QBWtti3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032184627750977581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个流浪猫一直跟着我还跟着我回房间了啊啊啊 是个有蛋蛋的恶臭男猫咪 但我还是给他众筹买了猫粮 善良人格发作了 但是他长得好猥琐🙄 https://t.co/885QBWtti3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11038,
+        "height": 1280,
+        "media_key": "13_2032184475518713863",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032184475518713863/img/x9ODi-xWGrUu_ZIS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032184475518713863/vid/avc1/320x568/yH3KgY9SYc4-LJZM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032184475518713863/vid/avc1/480x852/h618ycqazBtk2kk9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032184475518713863/vid/avc1/720x1280/2IBHzQpg8GaZKsiM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032184475518713863/pl/HRWfj3U3s7cA3OKb.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 6018,
+        "height": 1280,
+        "media_key": "13_2032184475501891584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032184475501891584/img/UjKJq1G7ExuRSC4J.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032184475501891584/vid/avc1/320x568/n0hS2gH2afvQt8Yv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032184475501891584/vid/avc1/480x852/ljT2kQPXsmIkc4SA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032184475501891584/vid/avc1/720x1280/5cfGl7HRMmEUkXrd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032184475501891584/pl/4A_GrOZWtGZanKW2.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032184475527036928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDPFA3XaQAAreVt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032184475518713863",
+            "13_2032184475501891584",
+            "3_2032184475527036928"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2032184627750977581",
+        "created_at": "2026-03-12T19:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T20:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032184627750977581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/885QBWtti3",
+              "end": 88,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2032184627750977581/video/1",
+              "media_key": "13_2032184475518713863",
+              "start": 65,
+              "url": "https://t.co/885QBWtti3"
+            },
+            {
+              "display_url": "pic.x.com/885QBWtti3",
+              "end": 88,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2032184627750977581/video/1",
+              "media_key": "13_2032184475501891584",
+              "start": 65,
+              "url": "https://t.co/885QBWtti3"
+            },
+            {
+              "display_url": "pic.x.com/885QBWtti3",
+              "end": 88,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2032184627750977581/video/1",
+              "media_key": "3_2032184475527036928",
+              "start": 65,
+              "url": "https://t.co/885QBWtti3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032184627750977581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个流浪猫一直跟着我还跟着我回房间了啊啊啊 是个有蛋蛋的恶臭男猫咪 但我还是给他众筹买了猫粮 善良人格发作了 但是他长得好猥琐🙄 https://t.co/885QBWtti3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4650,
+          "following_count": 16,
+          "like_count": 48,
+          "listed_count": 9,
+          "media_count": 28,
+          "tweet_count": 42
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

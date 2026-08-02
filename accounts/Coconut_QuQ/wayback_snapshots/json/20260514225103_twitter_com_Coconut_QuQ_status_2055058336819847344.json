@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2055056976867205424",
+    "created_at": "2026-05-14T22:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T23:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055058336819847344"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055058336819847344",
+    "in_reply_to_user_id": "1414269095416012806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055056976867205424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想想就好气啊我给我爹办丧事呢他跑来发信息跟我叫 说老婆我要看好看的问我怎么不回信息 点开我朋友圈大大一张死亡证明 我不知道怎么忍心 我发过什么好看的我怎么不知道 我他妈也想看啊！这两天给我气的半死 三十多岁的入跑来找我未成年退款 想干什么你想干什么我问你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2055056976867205424",
+        "created_at": "2026-05-14T22:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T23:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055058336819847344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055058336819847344",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055056976867205424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想想就好气啊我给我爹办丧事呢他跑来发信息跟我叫 说老婆我要看好看的问我怎么不回信息 点开我朋友圈大大一张死亡证明 我不知道怎么忍心 我发过什么好看的我怎么不知道 我他妈也想看啊！这两天给我气的半死 三十多岁的入跑来找我未成年退款 想干什么你想干什么我问你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2055056976867205424",
+        "created_at": "2026-05-14T22:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T23:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055056976867205424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055056976867205424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的受不了了 门槛哥说没拿我当鸡要和我发展然后每天聊天就找我要裸照管我老婆老婆的叫 我不回还要疯狂骂我 我给我爹办丧事呢一直疯狂骚扰我 不回信息就疯狂发火攻击我 真的我感觉遇到反社会人格了 这个入一年多一共给我消费了一千多米米 我给毕业了现在跑回来找我未成年退款 我操你妈！操你妈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5698,
+          "following_count": 24,
+          "like_count": 88,
+          "listed_count": 10,
+          "media_count": 33,
+          "tweet_count": 45
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

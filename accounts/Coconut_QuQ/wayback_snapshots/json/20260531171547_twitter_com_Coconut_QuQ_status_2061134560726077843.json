@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2061134560726077843",
+    "created_at": "2026-05-31T17:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061134560726077843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/coconut_quq/st…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/coconut_quq/status/2028434709949403167",
+          "start": 71,
+          "url": "https://t.co/MUF8v61aDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061134560726077843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028434709949403167",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好像痛苦才是我的动力 现在不真实的在平静生活 拍完这套照片后的这个月我就自杀了 奇怪的是我在这些痛苦里的产出 才有更高的点赞 十分讽刺的感觉 https://t.co/MUF8v61aDF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028434697802649600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZynEyakAAkXYF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2061134560726077843",
+        "created_at": "2026-05-31T17:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061134560726077843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coconut_quq/st…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/coconut_quq/status/2028434709949403167",
+              "start": 71,
+              "url": "https://t.co/MUF8v61aDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061134560726077843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028434709949403167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像痛苦才是我的动力 现在不真实的在平静生活 拍完这套照片后的这个月我就自杀了 奇怪的是我在这些痛苦里的产出 才有更高的点赞 十分讽刺的感觉 https://t.co/MUF8v61aDF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028434697802649600"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2028434709949403167",
+        "created_at": "2026-03-02T11:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028434709949403167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VLBdZ7weR2",
+              "end": 23,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2028434709949403167/photo/1",
+              "media_key": "3_2028434697802649600",
+              "start": 0,
+              "url": "https://t.co/VLBdZ7weR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028434709949403167",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1310,
+          "impression_count": 296558,
+          "like_count": 10086,
+          "quote_count": 48,
+          "reply_count": 72,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VLBdZ7weR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5795,
+          "following_count": 23,
+          "like_count": 99,
+          "listed_count": 10,
+          "media_count": 37,
+          "tweet_count": 60
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

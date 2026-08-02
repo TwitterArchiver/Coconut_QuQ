@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055679404572053504",
+        "3_2055679404597272576",
+        "3_2055679404588867584"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055679426042675276",
+    "created_at": "2026-05-16T15:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055679426042675276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hH4EZ2oLED",
+          "end": 115,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2055679426042675276/photo/1",
+          "media_key": "3_2055679404572053504",
+          "start": 92,
+          "url": "https://t.co/hH4EZ2oLED"
+        },
+        {
+          "display_url": "pic.x.com/hH4EZ2oLED",
+          "end": 115,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2055679426042675276/photo/1",
+          "media_key": "3_2055679404597272576",
+          "start": 92,
+          "url": "https://t.co/hH4EZ2oLED"
+        },
+        {
+          "display_url": "pic.x.com/hH4EZ2oLED",
+          "end": 115,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2055679426042675276/photo/1",
+          "media_key": "3_2055679404588867584",
+          "start": 92,
+          "url": "https://t.co/hH4EZ2oLED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055679426042675276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我小时候老被骂啊 现在要是有一个这样的极品小正太和我一起上学必须狠狠中出好吧 但那个时候我已经癫狂了 四五年前我就是个玻璃心精神病 我到办公室要跳楼啊 他就跟我疯狂道歉 还是个班长🙄 https://t.co/hH4EZ2oLED"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1768,
+        "media_key": "3_2055679404572053504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIc9humakAAGCNv.jpg",
+        "width": 900
+      },
+      {
+        "height": 2033,
+        "media_key": "3_2055679404597272576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIc9husbYAAc6xN.jpg",
+        "width": 1057
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055679404588867584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIc9huqbIAAymUu.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055679404572053504",
+            "3_2055679404597272576",
+            "3_2055679404588867584"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055679426042675276",
+        "created_at": "2026-05-16T15:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055679426042675276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hH4EZ2oLED",
+              "end": 115,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2055679426042675276/photo/1",
+              "media_key": "3_2055679404572053504",
+              "start": 92,
+              "url": "https://t.co/hH4EZ2oLED"
+            },
+            {
+              "display_url": "pic.x.com/hH4EZ2oLED",
+              "end": 115,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2055679426042675276/photo/1",
+              "media_key": "3_2055679404597272576",
+              "start": 92,
+              "url": "https://t.co/hH4EZ2oLED"
+            },
+            {
+              "display_url": "pic.x.com/hH4EZ2oLED",
+              "end": 115,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2055679426042675276/photo/1",
+              "media_key": "3_2055679404588867584",
+              "start": 92,
+              "url": "https://t.co/hH4EZ2oLED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055679426042675276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我小时候老被骂啊 现在要是有一个这样的极品小正太和我一起上学必须狠狠中出好吧 但那个时候我已经癫狂了 四五年前我就是个玻璃心精神病 我到办公室要跳楼啊 他就跟我疯狂道歉 还是个班长🙄 https://t.co/hH4EZ2oLED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5707,
+          "following_count": 24,
+          "like_count": 91,
+          "listed_count": 10,
+          "media_count": 39,
+          "tweet_count": 48
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

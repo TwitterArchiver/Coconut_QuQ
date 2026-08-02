@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2050628269205295526",
+    "created_at": "2026-05-02T17:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050628269205295526"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050628269205295526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这波真的红了aaa一直在被人认出来 我以为我的高p照天衣无缝 你们懂我这种感觉吗 以为自己这个丑逼要早死早生来着 好想哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2050628269205295526",
+        "created_at": "2026-05-02T17:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050628269205295526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050628269205295526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这波真的红了aaa一直在被人认出来 我以为我的高p照天衣无缝 你们懂我这种感觉吗 以为自己这个丑逼要早死早生来着 好想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5679,
+          "following_count": 26,
+          "like_count": 95,
+          "listed_count": 10,
+          "media_count": 33,
+          "tweet_count": 139
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

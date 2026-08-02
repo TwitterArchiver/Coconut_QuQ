@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2055681757291364574",
+    "created_at": "2026-05-16T16:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055681757291364574"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055681757291364574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的不是我开地图炮啊小时候上学那群县城同学就是脑残给我害死了 我初一上学期的时候被舍友掰的啊 他一直勾引我说我长得可爱天天抱着我睡觉觉还亲我小脸🤢 结果你妈逼的后面他跟我女生朋友处对象 意淫我要抢他老婆 有没有可能就是我没朋友 他在宿舍里面狂殴我 我就屁颠屁颠转学了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2055681757291364574",
+        "created_at": "2026-05-16T16:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055681757291364574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055681757291364574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的不是我开地图炮啊小时候上学那群县城同学就是脑残给我害死了 我初一上学期的时候被舍友掰的啊 他一直勾引我说我长得可爱天天抱着我睡觉觉还亲我小脸🤢 结果你妈逼的后面他跟我女生朋友处对象 意淫我要抢他老婆 有没有可能就是我没朋友 他在宿舍里面狂殴我 我就屁颠屁颠转学了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5707,
+          "following_count": 24,
+          "like_count": 91,
+          "listed_count": 10,
+          "media_count": 39,
+          "tweet_count": 49
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

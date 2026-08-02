@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2042929857085214928",
+    "created_at": "2026-04-11T11:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T12:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042929857085214928"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042929857085214928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我上一个号怎么申诉都申诉不回来 你们懂我多无奈吗 那个号上有一堆我去世的互关朋友 这个x没有浮木 我现在连朋友以前的动态都看不了 有些人微信我都没有 想哭啊无奈啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2042929857085214928",
+        "created_at": "2026-04-11T11:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042929857085214928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042929857085214928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上一个号怎么申诉都申诉不回来 你们懂我多无奈吗 那个号上有一堆我去世的互关朋友 这个x没有浮木 我现在连朋友以前的动态都看不了 有些人微信我都没有 想哭啊无奈啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5432,
+          "following_count": 22,
+          "like_count": 98,
+          "listed_count": 10,
+          "media_count": 38,
+          "tweet_count": 128
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

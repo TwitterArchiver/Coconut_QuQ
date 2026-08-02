@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2071553976177488077",
+    "created_at": "2026-06-29T12:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071567880366514472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1199138410704715776",
+          "start": 0,
+          "username": "L_R_001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071567880366514472",
+    "in_reply_to_user_id": "1199138410704715776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071567203896369434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L_R_001 他爹是我爸他弟 同卵生ok！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2071553976177488077",
+        "created_at": "2026-06-29T12:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071567880366514472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1199138410704715776",
+              "start": 0,
+              "username": "L_R_001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071567880366514472",
+        "in_reply_to_user_id": "1199138410704715776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071567203896369434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L_R_001 他爹是我爸他弟 同卵生ok！？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1199138410704715776",
+        "conversation_id": "2071553976177488077",
+        "created_at": "2026-06-29T12:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071567203896369434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071567203896369434",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071553976177488077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 本是同根生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5773,
+          "following_count": 24,
+          "like_count": 108,
+          "listed_count": 10,
+          "media_count": 43,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-26T01:31:00.000Z",
+        "description": "/实验室研究员/摄影 日语 读书 写作/\n/computer scientist/web security/",
+        "id": "1199138410704715776",
+        "name": "漂亮鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951934945989103616/iXjq20eI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 706,
+          "like_count": 5624,
+          "listed_count": 4,
+          "media_count": 303,
+          "tweet_count": 4214
+        },
+        "url": "",
+        "username": "L_R_001",
+        "verified": true
+      }
+    ]
+  }
+}

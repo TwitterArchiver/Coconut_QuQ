@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2047046708828492235",
+    "created_at": "2026-04-22T20:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T21:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047046708828492235"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047046708828492235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爸去世我忙前忙后跑 各种钱砸了一堆 房产证弄好还一分不是我的 要留给我妈 看我消费一下就过好日子了🙄 只是觉得自己过得太惨了不高消费一下奖励自己真的活不下去ok？！ 一年几万看起来好多填坑根本不够用 还要给未来做打算 乱七八糟的事情一大堆 还天天要说我高冷刻薄你咋这样 我真的一脚过去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2047046708828492235",
+        "created_at": "2026-04-22T20:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T21:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047046708828492235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047046708828492235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸去世我忙前忙后跑 各种钱砸了一堆 房产证弄好还一分不是我的 要留给我妈 看我消费一下就过好日子了🙄 只是觉得自己过得太惨了不高消费一下奖励自己真的活不下去ok？！ 一年几万看起来好多填坑根本不够用 还要给未来做打算 乱七八糟的事情一大堆 还天天要说我高冷刻薄你咋这样 我真的一脚过去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5506,
+          "following_count": 25,
+          "like_count": 99,
+          "listed_count": 11,
+          "media_count": 38,
+          "tweet_count": 147
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

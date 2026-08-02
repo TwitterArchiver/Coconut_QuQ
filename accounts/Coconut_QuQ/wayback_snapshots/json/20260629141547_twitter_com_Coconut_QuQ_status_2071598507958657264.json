@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2071598467718529024",
+        "3_2071598467739512832"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2071598507958657264",
+    "created_at": "2026-06-29T14:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071598507958657264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GnWYdl9lh0",
+          "end": 43,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2071598507958657264/photo/1",
+          "media_key": "16_2071598467718529024",
+          "start": 20,
+          "url": "https://t.co/GnWYdl9lh0"
+        },
+        {
+          "display_url": "pic.x.com/GnWYdl9lh0",
+          "end": 43,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2071598507958657264/photo/1",
+          "media_key": "3_2071598467739512832",
+          "start": 20,
+          "url": "https://t.co/GnWYdl9lh0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071598507958657264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想找个shisha店上班呀 好抽爱抽 https://t.co/GnWYdl9lh0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2071598467718529024",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HL_L1KGbQAAjB7G.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HL_L1KGbQAAjB7G.mp4"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071598467739512832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_L1KLbcAANZZr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2071598467718529024",
+            "3_2071598467739512832"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2071598507958657264",
+        "created_at": "2026-06-29T14:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071598507958657264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GnWYdl9lh0",
+              "end": 43,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2071598507958657264/photo/1",
+              "media_key": "16_2071598467718529024",
+              "start": 20,
+              "url": "https://t.co/GnWYdl9lh0"
+            },
+            {
+              "display_url": "pic.x.com/GnWYdl9lh0",
+              "end": 43,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2071598507958657264/photo/1",
+              "media_key": "3_2071598467739512832",
+              "start": 20,
+              "url": "https://t.co/GnWYdl9lh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071598507958657264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想找个shisha店上班呀 好抽爱抽 https://t.co/GnWYdl9lh0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5772,
+          "following_count": 24,
+          "like_count": 109,
+          "listed_count": 10,
+          "media_count": 45,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

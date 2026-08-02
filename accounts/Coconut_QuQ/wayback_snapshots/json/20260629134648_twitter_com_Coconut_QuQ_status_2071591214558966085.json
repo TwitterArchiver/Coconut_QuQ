@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071591206182916096"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2071591214558966085",
+    "created_at": "2026-06-29T13:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071591214558966085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n0RBh3j0s0",
+          "end": 29,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2071591214558966085/photo/1",
+          "media_key": "3_2071591206182916096",
+          "start": 6,
+          "url": "https://t.co/n0RBh3j0s0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071591214558966085",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "盯盯盯盯盯 https://t.co/n0RBh3j0s0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071591206182916096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_FOexbEAALaHa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071591206182916096"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2071591214558966085",
+        "created_at": "2026-06-29T13:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071591214558966085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n0RBh3j0s0",
+              "end": 29,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2071591214558966085/photo/1",
+              "media_key": "3_2071591206182916096",
+              "start": 6,
+              "url": "https://t.co/n0RBh3j0s0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071591214558966085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "盯盯盯盯盯 https://t.co/n0RBh3j0s0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5773,
+          "following_count": 24,
+          "like_count": 108,
+          "listed_count": 10,
+          "media_count": 44,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

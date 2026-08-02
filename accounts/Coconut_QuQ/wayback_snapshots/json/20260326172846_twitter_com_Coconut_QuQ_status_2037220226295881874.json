@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2037220226295881874",
+    "created_at": "2026-03-26T17:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037220226295881874"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037220226295881874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我疯狂开药吃补品 维生素倒欠一堆 一检查发现已经步入八十岁高龄 感觉马上要去世那种 真的感觉完蛋了我天 站起来就要倒下去的状态还要跑起来挣钱 总之就是很想死 好想给所有社交平台统统注销跑路啊 但我还要交各种费 什么都祭天了正常日子都没过上 背后空无一人，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2037220226295881874",
+        "created_at": "2026-03-26T17:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037220226295881874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037220226295881874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我疯狂开药吃补品 维生素倒欠一堆 一检查发现已经步入八十岁高龄 感觉马上要去世那种 真的感觉完蛋了我天 站起来就要倒下去的状态还要跑起来挣钱 总之就是很想死 好想给所有社交平台统统注销跑路啊 但我还要交各种费 什么都祭天了正常日子都没过上 背后空无一人，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5365,
+          "following_count": 23,
+          "like_count": 63,
+          "listed_count": 10,
+          "media_count": 30,
+          "tweet_count": 44
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

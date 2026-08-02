@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2056318145636466818",
+    "created_at": "2026-05-18T11:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056333748325818719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1510859961600917508",
+          "start": 0,
+          "username": "yushiwuzhen2017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056333748325818719",
+    "in_reply_to_user_id": "1510859961600917508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056333200734183496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yushiwuzhen2017 我刚刚就在问豆包感觉自己不小众了咋办😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2056318145636466818",
+        "created_at": "2026-05-18T11:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056333748325818719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1510859961600917508",
+              "start": 0,
+              "username": "yushiwuzhen2017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056333748325818719",
+        "in_reply_to_user_id": "1510859961600917508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056333200734183496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yushiwuzhen2017 我刚刚就在问豆包感觉自己不小众了咋办😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510859961600917508",
+        "conversation_id": "2056318145636466818",
+        "created_at": "2026-05-18T11:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056333200734183496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056333200734183496",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056318145636466818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 我草 我还以为介绍我呢🚬🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5705,
+          "following_count": 23,
+          "like_count": 94,
+          "listed_count": 10,
+          "media_count": 35,
+          "tweet_count": 51
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-04T06:01:09.000Z",
+        "description": "年下 妹攻  穷学生 170/118\n可不可以喜欢我多一点 爱上他们慢一点\n投喂一两顿饭钱💰过🚪 🥺─═★:;*─═☆:;*─═★:;*─═☆:;*─═ ┈·29元包年千G流量VPN👉🏻https://t.co/vEfKpTeI41",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/registe",
+                "end": 116,
+                "expanded_url": "https://www.yy.tz69.vip/#/registe",
+                "start": 93,
+                "url": "https://t.co/vEfKpTeI41"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/changlechangle",
+                "end": 23,
+                "expanded_url": "https://ngl.link/changlechangle",
+                "start": 0,
+                "url": "https://t.co/JqIGzZWxvz"
+              }
+            ]
+          }
+        },
+        "id": "1510859961600917508",
+        "location": "🚪88/188/288",
+        "name": "(៸៸⩊៸៸)泥嚎我是小小常乐",
+        "pinned_tweet_id": "2025651803598327928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018737571208269825/ZAJC_pZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 478,
+          "like_count": 8054,
+          "listed_count": 3,
+          "media_count": 914,
+          "tweet_count": 3379
+        },
+        "url": "https://t.co/JqIGzZWxvz",
+        "username": "yushiwuzhen2017",
+        "verified": false
+      }
+    ]
+  }
+}

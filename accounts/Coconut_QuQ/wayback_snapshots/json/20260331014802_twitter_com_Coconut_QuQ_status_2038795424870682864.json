@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2038795424870682864",
+    "created_at": "2026-03-31T01:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038795424870682864"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038795424870682864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爸家男的都很神 完全就是那种劣质基因 我爷爷就特别恐怖那种人 小时候回个家疯狂拿东西砸我 我哥那个爸就是被我爷叫出去打工给车创死的 赔的钱全他家里人分完了 说要上户口找个借口塞个大我妈十五岁的家里蹲二哥跟我妈结婚 那个时候我爸还有一个老婆 把我生出来一直在害我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2038795424870682864",
+        "created_at": "2026-03-31T01:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038795424870682864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038795424870682864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸家男的都很神 完全就是那种劣质基因 我爷爷就特别恐怖那种人 小时候回个家疯狂拿东西砸我 我哥那个爸就是被我爷叫出去打工给车创死的 赔的钱全他家里人分完了 说要上户口找个借口塞个大我妈十五岁的家里蹲二哥跟我妈结婚 那个时候我爸还有一个老婆 把我生出来一直在害我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5446,
+          "following_count": 23,
+          "like_count": 72,
+          "listed_count": 10,
+          "media_count": 31,
+          "tweet_count": 64
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

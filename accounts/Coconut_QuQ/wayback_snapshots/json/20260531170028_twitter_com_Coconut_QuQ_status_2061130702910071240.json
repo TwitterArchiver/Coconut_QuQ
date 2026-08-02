@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2061130702910071240",
+    "created_at": "2026-05-31T17:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061130702910071240"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061130702910071240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天天把衣服看成尸体 我一直在梦里被反复抛弃社死追杀死亡分尸 从小脑子就不正常 看到内脏我会怀疑这是人类 小时候都木有手机接收这些零碎的信息啊 为毛会这样 看到尸体也没啥感觉 但是有时候突然就害怕 好奇怪好诡异👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2061130702910071240",
+        "created_at": "2026-05-31T17:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061130702910071240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061130702910071240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天天把衣服看成尸体 我一直在梦里被反复抛弃社死追杀死亡分尸 从小脑子就不正常 看到内脏我会怀疑这是人类 小时候都木有手机接收这些零碎的信息啊 为毛会这样 看到尸体也没啥感觉 但是有时候突然就害怕 好奇怪好诡异👁️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5797,
+          "following_count": 23,
+          "like_count": 99,
+          "listed_count": 10,
+          "media_count": 37,
+          "tweet_count": 57
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

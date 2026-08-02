@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2065276784900518387",
+    "created_at": "2026-06-12T03:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065276784900518387"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065276784900518387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的深信不疑前世今生和平行时空还有命中注定这种东西 也许可能是濒死的幻觉 但我就是感觉我已经死了好几次 是梦还是现实？ 我只是意识的载体 另一个时空的载体已是一具尸体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2065276784900518387",
+        "created_at": "2026-06-12T03:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065276784900518387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065276784900518387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的深信不疑前世今生和平行时空还有命中注定这种东西 也许可能是濒死的幻觉 但我就是感觉我已经死了好几次 是梦还是现实？ 我只是意识的载体 另一个时空的载体已是一具尸体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5790,
+          "following_count": 23,
+          "like_count": 101,
+          "listed_count": 10,
+          "media_count": 39,
+          "tweet_count": 63
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

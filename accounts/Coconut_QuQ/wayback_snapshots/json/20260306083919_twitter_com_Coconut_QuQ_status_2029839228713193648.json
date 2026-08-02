@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2029839228713193648",
+    "created_at": "2026-03-06T08:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T09:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029839228713193648"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029839228713193648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直做那种很真的噩梦 意淫自己死了意淫被下降头 全身被扎了几百根针然后头还被砍断了 现在才清醒记忆才回来 我爸走了之后我就天天神神叨叨了 好无奈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2029839228713193648",
+        "created_at": "2026-03-06T08:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029839228713193648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029839228713193648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直做那种很真的噩梦 意淫自己死了意淫被下降头 全身被扎了几百根针然后头还被砍断了 现在才清醒记忆才回来 我爸走了之后我就天天神神叨叨了 好无奈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "北上广深 只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3966,
+          "following_count": 13,
+          "like_count": 32,
+          "listed_count": 8,
+          "media_count": 19,
+          "tweet_count": 25
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

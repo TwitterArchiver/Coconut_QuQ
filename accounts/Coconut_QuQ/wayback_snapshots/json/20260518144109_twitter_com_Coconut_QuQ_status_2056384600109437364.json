@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2056384600109437364",
+    "created_at": "2026-05-18T14:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056384600109437364"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056384600109437364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前两年被我爹妈逼得受不了 跑出来租房子天天接爸爸活卖淫过日子 卖就卖吧还卖的便宜卖的少卖不出去 基本是带着猎奇心理跑来的 但我工作态度很认真好吧 几百几十的也活过来了 一个月收两个槛槛 卖几百块的淫 所以第一次有人线下给我一万块就爱上他了 人生中第一次恋爱就如此 确认关系的恋爱就两段都是卖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2056384600109437364",
+        "created_at": "2026-05-18T14:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056384600109437364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056384600109437364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前两年被我爹妈逼得受不了 跑出来租房子天天接爸爸活卖淫过日子 卖就卖吧还卖的便宜卖的少卖不出去 基本是带着猎奇心理跑来的 但我工作态度很认真好吧 几百几十的也活过来了 一个月收两个槛槛 卖几百块的淫 所以第一次有人线下给我一万块就爱上他了 人生中第一次恋爱就如此 确认关系的恋爱就两段都是卖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5709,
+          "following_count": 23,
+          "like_count": 94,
+          "listed_count": 10,
+          "media_count": 35,
+          "tweet_count": 55
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

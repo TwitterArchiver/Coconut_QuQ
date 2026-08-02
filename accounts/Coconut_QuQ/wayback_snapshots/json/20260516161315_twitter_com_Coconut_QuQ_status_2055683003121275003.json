@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2055683003121275003",
+    "created_at": "2026-05-16T16:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055683003121275003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/coconut_quq/st…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/coconut_quq/status/2055681757291364574",
+          "start": 144,
+          "url": "https://t.co/yDYhQY7wOs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055683003121275003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055681757291364574",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我转学又被舍友整啊 卧槽舍友看个人家女生的男同小说就跑来猥亵我 两三个人爬到我床上亲我甚至还尼玛拿小坤坤顶我 还几个人一起偷看我洗澡 我当时都崩溃了好吧学校里面一个人都不认识我一个月回一次家 又不敢告状然后我就跪着求我老母给我转学 都是社会人老鸡儿恐怖天天打人 有幸在厕所被扒裤子打过😂 https://t.co/yDYhQY7wOs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2055683003121275003",
+        "created_at": "2026-05-16T16:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055683003121275003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coconut_quq/st…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/coconut_quq/status/2055681757291364574",
+              "start": 144,
+              "url": "https://t.co/yDYhQY7wOs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055683003121275003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055681757291364574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我转学又被舍友整啊 卧槽舍友看个人家女生的男同小说就跑来猥亵我 两三个人爬到我床上亲我甚至还尼玛拿小坤坤顶我 还几个人一起偷看我洗澡 我当时都崩溃了好吧学校里面一个人都不认识我一个月回一次家 又不敢告状然后我就跪着求我老母给我转学 都是社会人老鸡儿恐怖天天打人 有幸在厕所被扒裤子打过😂 https://t.co/yDYhQY7wOs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2055681757291364574",
+        "created_at": "2026-05-16T16:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055681757291364574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055681757291364574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的不是我开地图炮啊小时候上学那群县城同学就是脑残给我害死了 我初一上学期的时候被舍友掰的啊 他一直勾引我说我长得可爱天天抱着我睡觉觉还亲我小脸🤢 结果你妈逼的后面他跟我女生朋友处对象 意淫我要抢他老婆 有没有可能就是我没朋友 他在宿舍里面狂殴我 我就屁颠屁颠转学了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5707,
+          "following_count": 24,
+          "like_count": 92,
+          "listed_count": 10,
+          "media_count": 39,
+          "tweet_count": 50
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

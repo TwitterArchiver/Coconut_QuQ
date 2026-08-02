@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2057398215067267531",
+    "created_at": "2026-05-21T18:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057526007050178793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1199138410704715776",
+          "start": 0,
+          "username": "L_R_001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057526007050178793",
+    "in_reply_to_user_id": "1199138410704715776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057460360240882123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L_R_001 52w太假了吧 还有人发文和问我朋友 还不是我说的收52w顺着说一下炸出来几个嫉妒心爆棚的傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2057398215067267531",
+        "created_at": "2026-05-21T18:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057526007050178793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1199138410704715776",
+              "start": 0,
+              "username": "L_R_001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057526007050178793",
+        "in_reply_to_user_id": "1199138410704715776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057460360240882123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L_R_001 52w太假了吧 还有人发文和问我朋友 还不是我说的收52w顺着说一下炸出来几个嫉妒心爆棚的傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1199138410704715776",
+        "conversation_id": "2057398215067267531",
+        "created_at": "2026-05-21T13:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057460360240882123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057460360240882123",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057398215067267531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 真有人不信这个椰椰吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5785,
+          "following_count": 23,
+          "like_count": 94,
+          "listed_count": 10,
+          "media_count": 35,
+          "tweet_count": 47
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-26T01:31:00.000Z",
+        "description": "/实验室研究员/摄影 日语 读书 写作/\n/computer scientist/web security/",
+        "id": "1199138410704715776",
+        "name": "漂亮鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951934945989103616/iXjq20eI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 700,
+          "like_count": 5443,
+          "listed_count": 4,
+          "media_count": 284,
+          "tweet_count": 4035
+        },
+        "username": "L_R_001",
+        "verified": true
+      }
+    ]
+  }
+}

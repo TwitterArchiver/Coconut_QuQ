@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045465714950279169"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2045465744725729304",
+    "created_at": "2026-04-18T11:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T12:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045465744725729304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vB8A36QEsw",
+          "end": 27,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2045465744725729304/photo/1",
+          "media_key": "3_2045465714950279169",
+          "start": 4,
+          "url": "https://t.co/vB8A36QEsw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045465744725729304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "椰子味 https://t.co/vB8A36QEsw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045465714950279169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGL0OvvaEAEhBFM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045465714950279169"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045465744725729304",
+        "created_at": "2026-04-18T11:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045465744725729304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vB8A36QEsw",
+              "end": 27,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2045465744725729304/photo/1",
+              "media_key": "3_2045465714950279169",
+              "start": 4,
+              "url": "https://t.co/vB8A36QEsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045465744725729304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "椰子味 https://t.co/vB8A36QEsw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5429,
+          "following_count": 22,
+          "like_count": 95,
+          "listed_count": 10,
+          "media_count": 40,
+          "tweet_count": 145
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

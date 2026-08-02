@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2065282139634163835",
+    "created_at": "2026-06-12T03:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065282139634163835"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065282139634163835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今年我最忘不掉的就是 我爸死的那天 我那两天莫名其妙被写进瓜条里说我跟别人日过 当时我气的不行两天都没睡觉 凌晨我爸爸就走了 我去医院的时候妈妈还让我先回家睡觉 她抱着蹲在地上哭的我说没事的你先去睡吧 但我就是不敢睡蒽 果然我一回家电话打不通 回医院一条路都红灯果然去世了 没人懂我的心情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2065282139634163835",
+        "created_at": "2026-06-12T03:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065282139634163835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065282139634163835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年我最忘不掉的就是 我爸死的那天 我那两天莫名其妙被写进瓜条里说我跟别人日过 当时我气的不行两天都没睡觉 凌晨我爸爸就走了 我去医院的时候妈妈还让我先回家睡觉 她抱着蹲在地上哭的我说没事的你先去睡吧 但我就是不敢睡蒽 果然我一回家电话打不通 回医院一条路都红灯果然去世了 没人懂我的心情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5790,
+          "following_count": 23,
+          "like_count": 101,
+          "listed_count": 10,
+          "media_count": 39,
+          "tweet_count": 64
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

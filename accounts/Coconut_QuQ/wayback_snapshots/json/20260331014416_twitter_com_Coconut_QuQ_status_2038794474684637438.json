@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2038794474684637438",
+    "created_at": "2026-03-31T01:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038794474684637438"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038794474684637438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我受不了了我爸死了没遗嘱 房产都在他名下弄一个多月转不出来 估计还要回趟四川农村 我感觉说他很对不起人 但他就是搞一堆事情出来让人很无语 很典的那种走之前还想把房产扯到小孩子身上 他怕我妈改嫁 我不知道这个年代守寡啥意思😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2038794474684637438",
+        "created_at": "2026-03-31T01:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038794474684637438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038794474684637438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我受不了了我爸死了没遗嘱 房产都在他名下弄一个多月转不出来 估计还要回趟四川农村 我感觉说他很对不起人 但他就是搞一堆事情出来让人很无语 很典的那种走之前还想把房产扯到小孩子身上 他怕我妈改嫁 我不知道这个年代守寡啥意思😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5446,
+          "following_count": 23,
+          "like_count": 72,
+          "listed_count": 10,
+          "media_count": 31,
+          "tweet_count": 63
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

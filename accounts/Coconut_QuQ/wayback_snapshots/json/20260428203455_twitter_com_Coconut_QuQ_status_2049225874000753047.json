@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2049225874000753047",
+    "created_at": "2026-04-28T20:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T21:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049225874000753047"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049225874000753047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "仔细一想死的时候那个逼样就不想死了 死的太丑了没有美感 故事感也没有 只看到这个世界少了一个社会毒瘤 不美不喜欢 自杀是在给这个世界做无害化处理 所以要死的美一点 死的太丑了收尸的人都边抬边抱怨翻白眼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2049225874000753047",
+        "created_at": "2026-04-28T20:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T21:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049225874000753047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049225874000753047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仔细一想死的时候那个逼样就不想死了 死的太丑了没有美感 故事感也没有 只看到这个世界少了一个社会毒瘤 不美不喜欢 自杀是在给这个世界做无害化处理 所以要死的美一点 死的太丑了收尸的人都边抬边抱怨翻白眼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5663,
+          "following_count": 25,
+          "like_count": 94,
+          "listed_count": 12,
+          "media_count": 34,
+          "tweet_count": 138
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}
