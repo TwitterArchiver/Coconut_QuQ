@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078789996384055296"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2078790048972239141",
+    "created_at": "2026-07-19T10:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078790048972239141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cujCW3vfkI",
+          "end": 23,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2078790048972239141/video/1",
+          "media_key": "13_2078789996384055296",
+          "start": 0,
+          "url": "https://t.co/cujCW3vfkI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078790048972239141",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/cujCW3vfkI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12265,
+        "height": 720,
+        "media_key": "13_2078789996384055296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078789996384055296/img/72uBNjcOwcKUpJ-A.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078789996384055296/vid/avc1/480x270/b4XIi93rAFhqDW6w.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078789996384055296/vid/avc1/640x360/pVEezdElCnhPHzCg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078789996384055296/vid/avc1/1280x720/eMW1DSFrLyiCFPXg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078789996384055296/pl/ZN0_yvIbB-9YJ1nw.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078789996384055296"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2078790048972239141",
+        "created_at": "2026-07-19T10:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078790048972239141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cujCW3vfkI",
+              "end": 23,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2078790048972239141/video/1",
+              "media_key": "13_2078789996384055296",
+              "start": 0,
+              "url": "https://t.co/cujCW3vfkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078790048972239141",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cujCW3vfkI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5831,
+          "following_count": 27,
+          "like_count": 126,
+          "listed_count": 11,
+          "media_count": 59,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

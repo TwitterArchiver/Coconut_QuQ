@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085503849838809088"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2085503856876884230",
+    "created_at": "2026-08-06T23:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T00:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085503856876884230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AXbL4uiZh0",
+          "end": 27,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2085503856876884230/photo/1",
+          "media_key": "3_2085503849838809088",
+          "start": 4,
+          "url": "https://t.co/AXbL4uiZh0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085503856876884230",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跪下。 https://t.co/AXbL4uiZh0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2085503849838809088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPEys7NaEAAdkoP.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085503849838809088"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2085503856876884230",
+        "created_at": "2026-08-06T23:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T00:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085503856876884230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXbL4uiZh0",
+              "end": 27,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2085503856876884230/photo/1",
+              "media_key": "3_2085503849838809088",
+              "start": 4,
+              "url": "https://t.co/AXbL4uiZh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085503856876884230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跪下。 https://t.co/AXbL4uiZh0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520/1314/5200",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5804,
+          "following_count": 28,
+          "like_count": 136,
+          "listed_count": 11,
+          "media_count": 57,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1414269095416012806",
+    "conversation_id": "2086270968071373044",
+    "created_at": "2026-08-09T02:22:31.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T03:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086276909542056315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 14,
+          "id": "1199138410704715776",
+          "start": 6,
+          "username": "L_R_001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086276909542056315",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086273903060537528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @L_R_001 看吧我就说只有一个眼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2086270968071373044",
+        "created_at": "2026-08-09T02:22:31.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086276909542056315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 14,
+              "id": "1199138410704715776",
+              "start": 6,
+              "username": "L_R_001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086276909542056315",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086273903060537528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @L_R_001 看吧我就说只有一个眼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2086270968071373044",
+        "created_at": "2026-08-09T02:10:34.000Z",
+        "display_text_range": [
+          22,
+          226
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086273903060537528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1199138410704715776",
+              "start": 0,
+              "username": "L_R_001"
+            },
+            {
+              "end": 21,
+              "id": "1414269095416012806",
+              "start": 9,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086273903060537528",
+        "in_reply_to_user_id": "1199138410704715776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086273665449267686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L_R_001 @Coconut_QuQ No. Humans have two eyes (visual organs), plus other orifices often called 眼 in Chinese like ear canals or the navel. The mouth is separate. Traditional counts list seven head orifices including the eyes."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "is_identity_verified": false,
+        "location": "坐标广深港🚪288/520/1314/5200",
+        "most_recent_tweet_id": "2086276909542056315",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414269095416012806/1771847886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5802,
+          "following_count": 29,
+          "like_count": 137,
+          "listed_count": 11,
+          "media_count": 56,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "Coconut_QuQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086276929846415640",
+        "name": "Grok",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8941880,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7301,
+          "media_count": 9238466,
+          "tweet_count": 134990726
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-26T01:31:00.000Z",
+        "description": "/实验室研究员/摄影 日语 读书 写作/",
+        "id": "1199138410704715776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086273665449267686",
+        "name": "漂亮鼠",
+        "pinned_tweet_id": "2076000812229066868",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1199138410704715776/1746275772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951934945989103616/iXjq20eI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 697,
+          "like_count": 5815,
+          "listed_count": 4,
+          "media_count": 303,
+          "tweet_count": 4642
+        },
+        "url": "",
+        "username": "L_R_001",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
