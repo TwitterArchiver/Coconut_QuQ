@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-06T07:24:43",
+  "last_updated": "2026-09-06T07:24:56",
   "html": {
     "https://web.archive.org/web/20260215090515if_/https://twitter.com/Coconut_QuQ/status/2022960386107122009": {
       "status": "done",
@@ -5350,16 +5350,20 @@
       "last_updated": "2026-08-10T15:14:30"
     },
     "https://pbs.twimg.com/profile_images/2069269161650585600/nqpI1VdP_normal.jpg": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20260809175429_twitter_com_Coconut_QuQ_status_2086511447425851722.json"
-      ]
+      ],
+      "last_updated": "2026-09-06T07:24:56",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260809175429if_/https://pbs.twimg.com/profile_images/2069269161650585600/nqpI1VdP_normal.jpg",
+      "miss_count": 1
     },
     "https://pbs.twimg.com/profile_images/2056984169851609088/MxpMZFPo_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260902202757_twitter_com_Coconut_QuQ_status_2095247380182642931.json"
-      ]
+      ],
+      "last_updated": "2026-09-06T07:24:54"
     }
   },
   "media": {
@@ -12972,7 +12976,7 @@
       "last_updated": "2026-09-06T07:17:44"
     },
     "20260809175429_twitter_com_Coconut_QuQ_status_2086511447425851722.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12981,7 +12985,7 @@
           "https://pbs.twimg.com/profile_images/2069269161650585600/nqpI1VdP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-06T07:24:18"
+      "last_updated": "2026-09-06T07:24:56"
     },
     "20260809194254_twitter_com_Coconut_QuQ_status_2086538730693861528.json": {
       "status": "done",
@@ -13411,7 +13415,7 @@
       "last_updated": "2026-09-06T07:17:46"
     },
     "20260902202757_twitter_com_Coconut_QuQ_status_2095247380182642931.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -13420,7 +13424,7 @@
           "https://pbs.twimg.com/profile_images/2056984169851609088/MxpMZFPo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-06T07:24:18"
+      "last_updated": "2026-09-06T07:24:54"
     }
   }
 }
