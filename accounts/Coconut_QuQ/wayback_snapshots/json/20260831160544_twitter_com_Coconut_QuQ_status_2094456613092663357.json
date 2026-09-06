@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2094456560189902848"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2094456613092663357",
+    "created_at": "2026-08-31T16:05:44.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T17:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094456613092663357"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5cdcZU3nIN",
+          "end": 39,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2094456613092663357/photo/1",
+          "media_key": "16_2094456560189902848",
+          "start": 16,
+          "url": "https://t.co/5cdcZU3nIN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094456613092663357",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "16_2094456560189902848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想象一下我是你的新娘（有唧唧版 https://t.co/5cdcZU3nIN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2094456560189902848",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HREBJQObEAAie0L.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HREBJQObEAAie0L.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2094456560189902848"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2094456613092663357",
+        "created_at": "2026-08-31T16:05:44.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094456613092663357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5cdcZU3nIN",
+              "end": 39,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2094456613092663357/photo/1",
+              "media_key": "16_2094456560189902848",
+              "start": 16,
+              "url": "https://t.co/5cdcZU3nIN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094456613092663357",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "16_2094456560189902848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的新娘（有唧唧版 https://t.co/5cdcZU3nIN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "is_identity_verified": false,
+        "location": "坐标广深港🚪288/520/1314/5200",
+        "most_recent_tweet_id": "2094456613092663357",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414269095416012806/1771847886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5787,
+          "following_count": 28,
+          "like_count": 149,
+          "listed_count": 10,
+          "media_count": 61,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "Coconut_QuQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

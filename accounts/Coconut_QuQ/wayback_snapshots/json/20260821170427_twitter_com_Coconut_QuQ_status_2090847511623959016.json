@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090847495656251392"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2090847511623959016",
+    "created_at": "2026-08-21T17:04:27.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T18:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090847511623959016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6UYtx2meDM",
+          "end": 23,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2090847511623959016/photo/1",
+          "media_key": "3_2090847495656251392",
+          "start": 0,
+          "url": "https://t.co/6UYtx2meDM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090847511623959016",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2090847495656251392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/6UYtx2meDM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2090847495656251392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQuuDIbIAAMrfg.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090847495656251392"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2090847511623959016",
+        "created_at": "2026-08-21T17:04:27.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090847511623959016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UYtx2meDM",
+              "end": 23,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2090847511623959016/photo/1",
+              "media_key": "3_2090847495656251392",
+              "start": 0,
+              "url": "https://t.co/6UYtx2meDM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090847511623959016",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090847495656251392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6UYtx2meDM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "is_identity_verified": false,
+        "location": "坐标广深港🚪288/520/1314/5200",
+        "most_recent_tweet_id": "2090847511623959016",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414269095416012806/1771847886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5773,
+          "following_count": 28,
+          "like_count": 141,
+          "listed_count": 10,
+          "media_count": 59,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "Coconut_QuQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
