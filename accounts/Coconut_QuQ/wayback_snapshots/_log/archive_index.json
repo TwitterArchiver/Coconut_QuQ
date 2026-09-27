@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-27T18:17:13",
+  "last_updated": "2026-09-27T18:17:28",
   "html": {
     "https://web.archive.org/web/20260215090515if_/https://twitter.com/Coconut_QuQ/status/2022960386107122009": {
       "status": "done",
@@ -5641,18 +5641,20 @@
       "last_updated": "2026-09-06T07:24:54"
     },
     "https://pbs.twimg.com/profile_images/2082583216117161984/8a7U4JzA_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260909172511_twitter_com_Coconut_QuQ_status_2097738097949872180.json"
-      ]
+      ],
+      "last_updated": "2026-09-27T18:17:28"
     },
     "https://pbs.twimg.com/profile_images/2006003326438236162/T0ZCw-JT_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260909172511_twitter_com_Coconut_QuQ_status_2097738097949872180.json",
         "20260909172859_twitter_com_Coconut_QuQ_status_2097739055933071667.json",
         "20260909172903_twitter_com_Coconut_QuQ_status_2097739071158440103.json"
-      ]
+      ],
+      "last_updated": "2026-09-27T18:17:28"
     }
   },
   "media": {
@@ -13812,7 +13814,7 @@
       "miss_count": 2
     },
     "20260909172511_twitter_com_Coconut_QuQ_status_2097738097949872180.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRxaZtRbsAAUJUg.jpg",
@@ -13825,10 +13827,10 @@
           "https://pbs.twimg.com/profile_images/2006003326438236162/T0ZCw-JT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-27T18:16:44"
+      "last_updated": "2026-09-27T18:17:28"
     },
     "20260909172859_twitter_com_Coconut_QuQ_status_2097739055933071667.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -13839,10 +13841,10 @@
           "https://pbs.twimg.com/profile_images/2006003326438236162/T0ZCw-JT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-27T18:16:45"
+      "last_updated": "2026-09-27T18:17:28"
     },
     "20260909172903_twitter_com_Coconut_QuQ_status_2097739071158440103.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRw6EB_bIAAFCqu.jpg",
@@ -13854,7 +13856,7 @@
           "https://pbs.twimg.com/profile_images/2006003326438236162/T0ZCw-JT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-27T18:16:44"
+      "last_updated": "2026-09-27T18:17:28"
     },
     "20260913040153_twitter_com_Coconut_QuQ_status_2098985491555369173.json": {
       "status": "done",
