@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101691118710603776"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2101691135378767915",
+    "created_at": "2026-09-20T15:13:08.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T16:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101691135378767915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RrlgSNN8Xl",
+          "end": 50,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2101691135378767915/photo/1",
+          "media_key": "3_2101691118710603776",
+          "start": 27,
+          "url": "https://t.co/RrlgSNN8Xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101691135378767915",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101691118710603776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在浴室低血糖摔倒了 给自己弄的鼻青脸肿全是淤青😂💔 https://t.co/RrlgSNN8Xl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101691118710603776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSq07-5WwAAZrwd.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101691118710603776"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2101691135378767915",
+        "created_at": "2026-09-20T15:13:08.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101691135378767915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RrlgSNN8Xl",
+              "end": 50,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2101691135378767915/photo/1",
+              "media_key": "3_2101691118710603776",
+              "start": 27,
+              "url": "https://t.co/RrlgSNN8Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101691135378767915",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101691118710603776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在浴室低血糖摔倒了 给自己弄的鼻青脸肿全是淤青😂💔 https://t.co/RrlgSNN8Xl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "is_identity_verified": false,
+        "location": "坐标广深港🚪288/520/1314/5200",
+        "most_recent_tweet_id": "2101691135378767915",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414269095416012806/1771847886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5760,
+          "following_count": 29,
+          "like_count": 172,
+          "listed_count": 10,
+          "media_count": 60,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "Coconut_QuQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102163964717096961"
+      ]
+    },
+    "author_id": "1414269095416012806",
+    "conversation_id": "2102163974439457085",
+    "created_at": "2026-09-21T22:32:02.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T23:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102163974439457085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MkM81NTvH7",
+          "end": 29,
+          "expanded_url": "https://x.com/Coconut_QuQ/status/2102163974439457085/photo/1",
+          "media_key": "3_2102163964717096961",
+          "start": 6,
+          "url": "https://t.co/MkM81NTvH7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102163974439457085",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102163964717096961"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "安排枪毙吧 https://t.co/MkM81NTvH7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1995,
+        "media_key": "3_2102163964717096961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSxi_PiW4AEb0z4.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102163964717096961"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2102163974439457085",
+        "created_at": "2026-09-21T22:32:02.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T23:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102163974439457085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MkM81NTvH7",
+              "end": 29,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2102163974439457085/photo/1",
+              "media_key": "3_2102163964717096961",
+              "start": 6,
+              "url": "https://t.co/MkM81NTvH7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102163974439457085",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102163964717096961"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "安排枪毙吧 https://t.co/MkM81NTvH7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "is_identity_verified": false,
+        "location": "坐标广深港🚪288/520/1314/5200",
+        "most_recent_tweet_id": "2102163974439457085",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414269095416012806/1771847886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5760,
+          "following_count": 29,
+          "like_count": 172,
+          "listed_count": 10,
+          "media_count": 60,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "Coconut_QuQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
